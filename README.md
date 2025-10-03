@@ -36,7 +36,7 @@ This project implements a comprehensive machine learning pipeline for classifyin
 - **Total Samples**: 252
 - **Classes**: 3 collision types
 - **Features**: 6 time series (Fx, Fy, Fz, Tx, Ty, Tz) with ~15 points each
-- **Split**: 80% train (202 samples) / 20% test (50 samples)
+- **Split**: 80% train (201 samples) / 20% test (51 samples)
 
 ### Class Distribution
 - **Class 1**: collision in part (134 samples - 53.2%)
