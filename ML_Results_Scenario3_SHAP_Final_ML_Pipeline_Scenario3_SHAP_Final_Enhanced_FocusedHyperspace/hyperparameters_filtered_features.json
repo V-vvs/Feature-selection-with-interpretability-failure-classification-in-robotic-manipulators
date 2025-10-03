@@ -1,0 +1,42 @@
+{
+  "KNN": {
+    "hyperparameters": "Base model - no optimization",
+    "performance_metrics": {
+      "accuracy": 0.9607843137254902,
+      "f1_macro": 0.9547619047619048,
+      "f1_weighted": 0.9595238095238094,
+      "precision_macro": 0.9770114942528735,
+      "recall_macro": 0.9393939393939394
+    }
+  },
+  "SVM": {
+    "hyperparameters": "Base model - no optimization",
+    "performance_metrics": {
+      "accuracy": 0.9803921568627451,
+      "f1_macro": 0.978066378066378,
+      "f1_weighted": 0.9801035565741447,
+      "precision_macro": 0.9880952380952381,
+      "recall_macro": 0.9696969696969697
+    }
+  },
+  "MLP": {
+    "hyperparameters": "Base model - no optimization",
+    "performance_metrics": {
+      "accuracy": 0.9803921568627451,
+      "f1_macro": 0.978066378066378,
+      "f1_weighted": 0.9801035565741447,
+      "precision_macro": 0.9880952380952381,
+      "recall_macro": 0.9696969696969697
+    }
+  },
+  "LightGBM": {
+    "hyperparameters": "Base model - no optimization",
+    "performance_metrics": {
+      "accuracy": 0.9607843137254902,
+      "f1_macro": 0.9594356261022927,
+      "f1_weighted": 0.9606805685237058,
+      "precision_macro": 0.9638447971781305,
+      "recall_macro": 0.957351290684624
+    }
+  }
+}

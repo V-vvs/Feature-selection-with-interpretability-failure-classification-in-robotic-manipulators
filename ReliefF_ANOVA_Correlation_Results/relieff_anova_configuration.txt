@@ -1,0 +1,20 @@
+RELIEFF + ANOVA + CORRELATION - CONFIGURATION
+==================================================
+
+relieff_k_neighbors: 15
+relieff_max_iterations: 100
+relieff_threshold: 0.01
+anova_threshold: 1.0
+relieff_weight: 0.5
+anova_weight: 0.5
+correlation_threshold: 0.8
+cumulative_threshold: 0.9
+min_features: 5
+max_features: 144
+verbose: True
+random_state: 42
+
+RESULTS:
+Original features: 144
+Selected features: 54
+Total reduction: 62.5%

@@ -1,0 +1,2332 @@
+{
+  "LightGBM": {
+    "sklearn_gain": {
+      "method": "sklearn_feature_importances_",
+      "description": "LightGBM native importance via sklearn interface",
+      "feature_ranking": [
+        {
+          "feature": "Fz_std",
+          "importance": 64.0
+        },
+        {
+          "feature": "Ty_iqr",
+          "importance": 52.0
+        },
+        {
+          "feature": "Fz_mean_abs",
+          "importance": 51.0
+        },
+        {
+          "feature": "Fz_slope",
+          "importance": 48.0
+        },
+        {
+          "feature": "Fz_peak_frequency",
+          "importance": 43.0
+        },
+        {
+          "feature": "Fz_rms",
+          "importance": 42.0
+        },
+        {
+          "feature": "Fx_min",
+          "importance": 38.0
+        },
+        {
+          "feature": "Fz_variance",
+          "importance": 36.0
+        },
+        {
+          "feature": "Ty_cv",
+          "importance": 32.0
+        },
+        {
+          "feature": "Fz_energy",
+          "importance": 31.0
+        },
+        {
+          "feature": "Fz_mean",
+          "importance": 28.0
+        },
+        {
+          "feature": "Fx_last",
+          "importance": 26.0
+        },
+        {
+          "feature": "Fy_max",
+          "importance": 25.0
+        },
+        {
+          "feature": "Tz_mean_abs",
+          "importance": 24.0
+        },
+        {
+          "feature": "Fx_rms",
+          "importance": 23.0
+        },
+        {
+          "feature": "Fz_iqr",
+          "importance": 23.0
+        },
+        {
+          "feature": "Tx_cv",
+          "importance": 23.0
+        },
+        {
+          "feature": "Tz_shape_factor",
+          "importance": 23.0
+        },
+        {
+          "feature": "Tx_min",
+          "importance": 22.0
+        },
+        {
+          "feature": "Ty_shape_factor",
+          "importance": 21.0
+        },
+        {
+          "feature": "Tz_rms",
+          "importance": 21.0
+        },
+        {
+          "feature": "Fy_first",
+          "importance": 20.0
+        },
+        {
+          "feature": "Fz_min",
+          "importance": 20.0
+        },
+        {
+          "feature": "Fz_last",
+          "importance": 20.0
+        },
+        {
+          "feature": "Fz_peak_to_peak",
+          "importance": 20.0
+        },
+        {
+          "feature": "Tx_rms",
+          "importance": 20.0
+        },
+        {
+          "feature": "Tx_shape_factor",
+          "importance": 20.0
+        },
+        {
+          "feature": "Ty_min",
+          "importance": 20.0
+        },
+        {
+          "feature": "Fx_shape_factor",
+          "importance": 19.0
+        },
+        {
+          "feature": "Fy_rms",
+          "importance": 19.0
+        },
+        {
+          "feature": "Fy_mean_abs",
+          "importance": 19.0
+        },
+        {
+          "feature": "Tz_mean",
+          "importance": 19.0
+        },
+        {
+          "feature": "Tx_zero_crossing_rate",
+          "importance": 18.0
+        },
+        {
+          "feature": "Ty_std",
+          "importance": 18.0
+        },
+        {
+          "feature": "Ty_p90",
+          "importance": 18.0
+        },
+        {
+          "feature": "Fx_entropy",
+          "importance": 17.0
+        },
+        {
+          "feature": "Fy_median",
+          "importance": 17.0
+        },
+        {
+          "feature": "Fy_peak_frequency",
+          "importance": 17.0
+        },
+        {
+          "feature": "Fz_power",
+          "importance": 17.0
+        },
+        {
+          "feature": "Tz_last",
+          "importance": 16.0
+        },
+        {
+          "feature": "Fx_std",
+          "importance": 15.0
+        },
+        {
+          "feature": "Tz_kurtosis",
+          "importance": 15.0
+        },
+        {
+          "feature": "Fx_skewness",
+          "importance": 14.0
+        },
+        {
+          "feature": "Fz_first",
+          "importance": 14.0
+        },
+        {
+          "feature": "Fx_slope",
+          "importance": 13.0
+        },
+        {
+          "feature": "Fy_kurtosis",
+          "importance": 13.0
+        },
+        {
+          "feature": "Tx_energy",
+          "importance": 13.0
+        },
+        {
+          "feature": "Ty_first",
+          "importance": 13.0
+        },
+        {
+          "feature": "Fy_mean",
+          "importance": 12.0
+        },
+        {
+          "feature": "Fz_kurtosis",
+          "importance": 12.0
+        },
+        {
+          "feature": "Tx_peak_to_peak",
+          "importance": 12.0
+        },
+        {
+          "feature": "Tz_peak_to_peak",
+          "importance": 12.0
+        },
+        {
+          "feature": "Fx_mean_abs",
+          "importance": 11.0
+        },
+        {
+          "feature": "Ty_peak_frequency",
+          "importance": 11.0
+        },
+        {
+          "feature": "Fz_entropy",
+          "importance": 10.0
+        },
+        {
+          "feature": "Tx_mean_abs",
+          "importance": 10.0
+        },
+        {
+          "feature": "Tx_first",
+          "importance": 10.0
+        },
+        {
+          "feature": "Tx_peak_frequency",
+          "importance": 10.0
+        },
+        {
+          "feature": "Ty_median",
+          "importance": 10.0
+        },
+        {
+          "feature": "Tz_skewness",
+          "importance": 10.0
+        },
+        {
+          "feature": "Fx_energy",
+          "importance": 9.0
+        },
+        {
+          "feature": "Fx_first",
+          "importance": 9.0
+        },
+        {
+          "feature": "Fy_entropy",
+          "importance": 9.0
+        },
+        {
+          "feature": "Fz_shape_factor",
+          "importance": 9.0
+        },
+        {
+          "feature": "Ty_kurtosis",
+          "importance": 9.0
+        },
+        {
+          "feature": "Ty_rms",
+          "importance": 9.0
+        },
+        {
+          "feature": "Ty_slope",
+          "importance": 9.0
+        },
+        {
+          "feature": "Tz_std",
+          "importance": 9.0
+        },
+        {
+          "feature": "Tz_energy",
+          "importance": 9.0
+        },
+        {
+          "feature": "Fx_mean",
+          "importance": 8.0
+        },
+        {
+          "feature": "Fy_peak_to_peak",
+          "importance": 8.0
+        },
+        {
+          "feature": "Fz_skewness",
+          "importance": 8.0
+        },
+        {
+          "feature": "Tx_max",
+          "importance": 8.0
+        },
+        {
+          "feature": "Ty_peak_to_peak",
+          "importance": 8.0
+        },
+        {
+          "feature": "Ty_entropy",
+          "importance": 8.0
+        },
+        {
+          "feature": "Fx_iqr",
+          "importance": 7.0
+        },
+        {
+          "feature": "Fy_energy",
+          "importance": 7.0
+        },
+        {
+          "feature": "Fz_cv",
+          "importance": 7.0
+        },
+        {
+          "feature": "Fz_crest_factor",
+          "importance": 7.0
+        },
+        {
+          "feature": "Tx_power",
+          "importance": 7.0
+        },
+        {
+          "feature": "Tx_last",
+          "importance": 7.0
+        },
+        {
+          "feature": "Ty_max",
+          "importance": 7.0
+        },
+        {
+          "feature": "Tz_iqr",
+          "importance": 7.0
+        },
+        {
+          "feature": "Tz_entropy",
+          "importance": 7.0
+        },
+        {
+          "feature": "Tz_slope",
+          "importance": 7.0
+        },
+        {
+          "feature": "Fx_variance",
+          "importance": 6.0
+        },
+        {
+          "feature": "Fy_p90",
+          "importance": 6.0
+        },
+        {
+          "feature": "Fy_slope",
+          "importance": 6.0
+        },
+        {
+          "feature": "Tx_entropy",
+          "importance": 6.0
+        },
+        {
+          "feature": "Tx_p90",
+          "importance": 6.0
+        },
+        {
+          "feature": "Tx_slope",
+          "importance": 6.0
+        },
+        {
+          "feature": "Tx_crest_factor",
+          "importance": 6.0
+        },
+        {
+          "feature": "Ty_energy",
+          "importance": 6.0
+        },
+        {
+          "feature": "Fx_zero_crossing_rate",
+          "importance": 5.0
+        },
+        {
+          "feature": "Fx_p90",
+          "importance": 5.0
+        },
+        {
+          "feature": "Fx_crest_factor",
+          "importance": 5.0
+        },
+        {
+          "feature": "Fx_peak_frequency",
+          "importance": 5.0
+        },
+        {
+          "feature": "Tx_mean",
+          "importance": 5.0
+        },
+        {
+          "feature": "Ty_mean_abs",
+          "importance": 5.0
+        },
+        {
+          "feature": "Ty_zero_crossing_rate",
+          "importance": 5.0
+        },
+        {
+          "feature": "Fx_kurtosis",
+          "importance": 4.0
+        },
+        {
+          "feature": "Fx_peak_to_peak",
+          "importance": 4.0
+        },
+        {
+          "feature": "Fy_skewness",
+          "importance": 4.0
+        },
+        {
+          "feature": "Fy_shape_factor",
+          "importance": 4.0
+        },
+        {
+          "feature": "Fz_p90",
+          "importance": 4.0
+        },
+        {
+          "feature": "Tx_std",
+          "importance": 4.0
+        },
+        {
+          "feature": "Tx_skewness",
+          "importance": 4.0
+        },
+        {
+          "feature": "Ty_crest_factor",
+          "importance": 4.0
+        },
+        {
+          "feature": "Tz_median",
+          "importance": 4.0
+        },
+        {
+          "feature": "Tz_crest_factor",
+          "importance": 4.0
+        },
+        {
+          "feature": "Fx_power",
+          "importance": 3.0
+        },
+        {
+          "feature": "Fx_cv",
+          "importance": 3.0
+        },
+        {
+          "feature": "Fy_zero_crossing_rate",
+          "importance": 3.0
+        },
+        {
+          "feature": "Fy_variance",
+          "importance": 3.0
+        },
+        {
+          "feature": "Fy_cv",
+          "importance": 3.0
+        },
+        {
+          "feature": "Fz_median",
+          "importance": 3.0
+        },
+        {
+          "feature": "Tx_kurtosis",
+          "importance": 3.0
+        },
+        {
+          "feature": "Ty_mean",
+          "importance": 3.0
+        },
+        {
+          "feature": "Ty_skewness",
+          "importance": 3.0
+        },
+        {
+          "feature": "Tz_zero_crossing_rate",
+          "importance": 3.0
+        },
+        {
+          "feature": "Fx_max",
+          "importance": 2.0
+        },
+        {
+          "feature": "Fx_median",
+          "importance": 2.0
+        },
+        {
+          "feature": "Fy_std",
+          "importance": 2.0
+        },
+        {
+          "feature": "Fy_iqr",
+          "importance": 2.0
+        },
+        {
+          "feature": "Fy_power",
+          "importance": 2.0
+        },
+        {
+          "feature": "Fy_last",
+          "importance": 2.0
+        },
+        {
+          "feature": "Tx_iqr",
+          "importance": 2.0
+        },
+        {
+          "feature": "Fy_min",
+          "importance": 1.0
+        },
+        {
+          "feature": "Fy_crest_factor",
+          "importance": 1.0
+        },
+        {
+          "feature": "Fz_max",
+          "importance": 1.0
+        },
+        {
+          "feature": "Tx_median",
+          "importance": 1.0
+        },
+        {
+          "feature": "Tx_variance",
+          "importance": 1.0
+        },
+        {
+          "feature": "Ty_power",
+          "importance": 1.0
+        },
+        {
+          "feature": "Ty_last",
+          "importance": 1.0
+        },
+        {
+          "feature": "Ty_variance",
+          "importance": 1.0
+        },
+        {
+          "feature": "Tz_min",
+          "importance": 1.0
+        },
+        {
+          "feature": "Tz_first",
+          "importance": 1.0
+        },
+        {
+          "feature": "Tz_cv",
+          "importance": 1.0
+        },
+        {
+          "feature": "Tz_peak_frequency",
+          "importance": 1.0
+        },
+        {
+          "feature": "Fz_zero_crossing_rate",
+          "importance": 0.0
+        },
+        {
+          "feature": "Tz_max",
+          "importance": 0.0
+        },
+        {
+          "feature": "Tz_power",
+          "importance": 0.0
+        },
+        {
+          "feature": "Tz_variance",
+          "importance": 0.0
+        },
+        {
+          "feature": "Tz_p90",
+          "importance": 0.0
+        }
+      ]
+    },
+    "native_gain": {
+      "method": "booster_.feature_importance(importance_type=\"gain\")",
+      "description": "LightGBM native gain importance",
+      "feature_ranking": [
+        {
+          "feature": "Fx_rms",
+          "importance": 322.54090824350715
+        },
+        {
+          "feature": "Fz_rms",
+          "importance": 268.19665107624314
+        },
+        {
+          "feature": "Fz_mean_abs",
+          "importance": 250.06637818377203
+        },
+        {
+          "feature": "Fz_std",
+          "importance": 219.92105201317463
+        },
+        {
+          "feature": "Fz_mean",
+          "importance": 208.7298888443038
+        },
+        {
+          "feature": "Fz_energy",
+          "importance": 181.83965030370746
+        },
+        {
+          "feature": "Fz_min",
+          "importance": 166.47371989907697
+        },
+        {
+          "feature": "Fx_energy",
+          "importance": 127.57845325395465
+        },
+        {
+          "feature": "Fx_mean_abs",
+          "importance": 113.44342624931596
+        },
+        {
+          "feature": "Ty_iqr",
+          "importance": 87.60279707598966
+        },
+        {
+          "feature": "Fz_power",
+          "importance": 82.52074465341866
+        },
+        {
+          "feature": "Ty_cv",
+          "importance": 62.8414059629431
+        },
+        {
+          "feature": "Fz_peak_to_peak",
+          "importance": 54.001588840503246
+        },
+        {
+          "feature": "Fz_peak_frequency",
+          "importance": 39.64017787168268
+        },
+        {
+          "feature": "Tx_shape_factor",
+          "importance": 39.02942636189982
+        },
+        {
+          "feature": "Tx_crest_factor",
+          "importance": 36.75689219729975
+        },
+        {
+          "feature": "Tx_cv",
+          "importance": 34.93481247336604
+        },
+        {
+          "feature": "Fx_power",
+          "importance": 31.838865369558334
+        },
+        {
+          "feature": "Fz_variance",
+          "importance": 29.918856756936293
+        },
+        {
+          "feature": "Fx_min",
+          "importance": 27.58715405105613
+        },
+        {
+          "feature": "Ty_std",
+          "importance": 26.830970216542482
+        },
+        {
+          "feature": "Ty_p90",
+          "importance": 18.722805605386384
+        },
+        {
+          "feature": "Tx_energy",
+          "importance": 18.515815098769963
+        },
+        {
+          "feature": "Fx_std",
+          "importance": 17.041248778812587
+        },
+        {
+          "feature": "Tz_rms",
+          "importance": 14.185499719460495
+        },
+        {
+          "feature": "Ty_shape_factor",
+          "importance": 12.794843458512332
+        },
+        {
+          "feature": "Fz_slope",
+          "importance": 11.820885224078665
+        },
+        {
+          "feature": "Fz_entropy",
+          "importance": 11.76990336785093
+        },
+        {
+          "feature": "Fy_peak_frequency",
+          "importance": 11.607275911606848
+        },
+        {
+          "feature": "Tx_min",
+          "importance": 11.34604422620032
+        },
+        {
+          "feature": "Tz_mean_abs",
+          "importance": 11.159145519835874
+        },
+        {
+          "feature": "Fz_last",
+          "importance": 10.973427531687776
+        },
+        {
+          "feature": "Tz_mean",
+          "importance": 10.408201100304723
+        },
+        {
+          "feature": "Fy_energy",
+          "importance": 10.320538608822972
+        },
+        {
+          "feature": "Tz_last",
+          "importance": 9.937496043741703
+        },
+        {
+          "feature": "Fy_mean_abs",
+          "importance": 9.265783159760758
+        },
+        {
+          "feature": "Fy_rms",
+          "importance": 8.969894668203779
+        },
+        {
+          "feature": "Ty_min",
+          "importance": 8.961510218679905
+        },
+        {
+          "feature": "Fy_max",
+          "importance": 8.620719099417329
+        },
+        {
+          "feature": "Ty_first",
+          "importance": 7.493995368015021
+        },
+        {
+          "feature": "Tz_kurtosis",
+          "importance": 7.120102445594966
+        },
+        {
+          "feature": "Fy_p90",
+          "importance": 6.723734677187167
+        },
+        {
+          "feature": "Fy_entropy",
+          "importance": 6.5886885821819305
+        },
+        {
+          "feature": "Tx_mean_abs",
+          "importance": 6.355453714961186
+        },
+        {
+          "feature": "Fy_first",
+          "importance": 6.312167184427381
+        },
+        {
+          "feature": "Fy_median",
+          "importance": 6.30810231436044
+        },
+        {
+          "feature": "Ty_slope",
+          "importance": 6.281426382716745
+        },
+        {
+          "feature": "Fz_crest_factor",
+          "importance": 6.161528265569359
+        },
+        {
+          "feature": "Tx_rms",
+          "importance": 6.1591372629627585
+        },
+        {
+          "feature": "Ty_max",
+          "importance": 5.774291716516018
+        },
+        {
+          "feature": "Fx_variance",
+          "importance": 5.649841949343681
+        },
+        {
+          "feature": "Fy_mean",
+          "importance": 5.2572129622494685
+        },
+        {
+          "feature": "Ty_mean",
+          "importance": 5.073109984397888
+        },
+        {
+          "feature": "Tz_peak_to_peak",
+          "importance": 4.536481190472841
+        },
+        {
+          "feature": "Fx_kurtosis",
+          "importance": 4.4863661816343665
+        },
+        {
+          "feature": "Tx_first",
+          "importance": 4.374535374343395
+        },
+        {
+          "feature": "Tz_shape_factor",
+          "importance": 4.302050462807529
+        },
+        {
+          "feature": "Fz_shape_factor",
+          "importance": 4.2195948688313365
+        },
+        {
+          "feature": "Fz_iqr",
+          "importance": 4.208450338948751
+        },
+        {
+          "feature": "Fx_p90",
+          "importance": 3.989232137799263
+        },
+        {
+          "feature": "Fy_power",
+          "importance": 3.78945192694664
+        },
+        {
+          "feature": "Tx_peak_frequency",
+          "importance": 3.7535509914159775
+        },
+        {
+          "feature": "Fx_skewness",
+          "importance": 3.7335619712248445
+        },
+        {
+          "feature": "Fx_shape_factor",
+          "importance": 3.6199068856658414
+        },
+        {
+          "feature": "Fx_last",
+          "importance": 3.4993310095596826
+        },
+        {
+          "feature": "Fx_entropy",
+          "importance": 3.3542135432362556
+        },
+        {
+          "feature": "Fz_cv",
+          "importance": 3.1884980213362724
+        },
+        {
+          "feature": "Tx_power",
+          "importance": 3.102905435487628
+        },
+        {
+          "feature": "Fz_first",
+          "importance": 3.0778209064737894
+        },
+        {
+          "feature": "Ty_energy",
+          "importance": 2.9859763653948903
+        },
+        {
+          "feature": "Fx_first",
+          "importance": 2.8165427912026644
+        },
+        {
+          "feature": "Tz_iqr",
+          "importance": 2.706994827836752
+        },
+        {
+          "feature": "Ty_peak_frequency",
+          "importance": 2.626389662967995
+        },
+        {
+          "feature": "Tz_energy",
+          "importance": 2.626107935095206
+        },
+        {
+          "feature": "Fx_slope",
+          "importance": 2.5257137975859223
+        },
+        {
+          "feature": "Tz_median",
+          "importance": 2.2579240053892136
+        },
+        {
+          "feature": "Ty_rms",
+          "importance": 2.1287825433537364
+        },
+        {
+          "feature": "Tx_zero_crossing_rate",
+          "importance": 1.9944252856075764
+        },
+        {
+          "feature": "Tx_skewness",
+          "importance": 1.912055030465126
+        },
+        {
+          "feature": "Fz_max",
+          "importance": 1.8071500062942505
+        },
+        {
+          "feature": "Tx_p90",
+          "importance": 1.7411642449442297
+        },
+        {
+          "feature": "Tx_peak_to_peak",
+          "importance": 1.619815532816574
+        },
+        {
+          "feature": "Tz_std",
+          "importance": 1.545029773376882
+        },
+        {
+          "feature": "Fy_peak_to_peak",
+          "importance": 1.5165836596861482
+        },
+        {
+          "feature": "Fy_shape_factor",
+          "importance": 1.4888885277323425
+        },
+        {
+          "feature": "Fx_mean",
+          "importance": 1.4823408918455243
+        },
+        {
+          "feature": "Fz_p90",
+          "importance": 1.3846810162067413
+        },
+        {
+          "feature": "Tx_kurtosis",
+          "importance": 1.3231630958616734
+        },
+        {
+          "feature": "Tx_std",
+          "importance": 1.2903029769659042
+        },
+        {
+          "feature": "Ty_kurtosis",
+          "importance": 1.2736992889549583
+        },
+        {
+          "feature": "Fz_kurtosis",
+          "importance": 1.2422180206049234
+        },
+        {
+          "feature": "Fx_peak_frequency",
+          "importance": 1.2276680823415518
+        },
+        {
+          "feature": "Fz_median",
+          "importance": 1.1771643999963999
+        },
+        {
+          "feature": "Fy_kurtosis",
+          "importance": 1.1403586314991117
+        },
+        {
+          "feature": "Tz_crest_factor",
+          "importance": 1.1235784143209457
+        },
+        {
+          "feature": "Ty_crest_factor",
+          "importance": 1.0849931612610817
+        },
+        {
+          "feature": "Ty_mean_abs",
+          "importance": 1.0316733978688717
+        },
+        {
+          "feature": "Tx_entropy",
+          "importance": 0.9597271047532558
+        },
+        {
+          "feature": "Ty_variance",
+          "importance": 0.9592739939689636
+        },
+        {
+          "feature": "Fx_iqr",
+          "importance": 0.9440778982825577
+        },
+        {
+          "feature": "Ty_zero_crossing_rate",
+          "importance": 0.8829439014662057
+        },
+        {
+          "feature": "Tz_skewness",
+          "importance": 0.8520696491468698
+        },
+        {
+          "feature": "Fx_peak_to_peak",
+          "importance": 0.8076473027467728
+        },
+        {
+          "feature": "Ty_entropy",
+          "importance": 0.7657245974987745
+        },
+        {
+          "feature": "Ty_power",
+          "importance": 0.7492030262947083
+        },
+        {
+          "feature": "Tz_slope",
+          "importance": 0.7351852208375931
+        },
+        {
+          "feature": "Tz_zero_crossing_rate",
+          "importance": 0.6413246849551797
+        },
+        {
+          "feature": "Ty_median",
+          "importance": 0.6230190522037446
+        },
+        {
+          "feature": "Tz_entropy",
+          "importance": 0.6074269935488701
+        },
+        {
+          "feature": "Ty_peak_to_peak",
+          "importance": 0.5886805416084826
+        },
+        {
+          "feature": "Fz_skewness",
+          "importance": 0.584886068943888
+        },
+        {
+          "feature": "Fy_iqr",
+          "importance": 0.5689949989318848
+        },
+        {
+          "feature": "Fx_cv",
+          "importance": 0.4404849261045456
+        },
+        {
+          "feature": "Fy_last",
+          "importance": 0.3177617024630308
+        },
+        {
+          "feature": "Fx_crest_factor",
+          "importance": 0.3016039952635765
+        },
+        {
+          "feature": "Fy_skewness",
+          "importance": 0.2956973605323583
+        },
+        {
+          "feature": "Tx_last",
+          "importance": 0.2787492342758924
+        },
+        {
+          "feature": "Tx_iqr",
+          "importance": 0.2737475140020251
+        },
+        {
+          "feature": "Fy_variance",
+          "importance": 0.27235755851805266
+        },
+        {
+          "feature": "Fy_slope",
+          "importance": 0.24488804512657225
+        },
+        {
+          "feature": "Tx_max",
+          "importance": 0.24487800113274716
+        },
+        {
+          "feature": "Fx_zero_crossing_rate",
+          "importance": 0.2334806863218546
+        },
+        {
+          "feature": "Tx_mean",
+          "importance": 0.20562164019793272
+        },
+        {
+          "feature": "Ty_skewness",
+          "importance": 0.17354139685630798
+        },
+        {
+          "feature": "Tz_first",
+          "importance": 0.13892300426959991
+        },
+        {
+          "feature": "Fy_zero_crossing_rate",
+          "importance": 0.13060155138373375
+        },
+        {
+          "feature": "Tz_min",
+          "importance": 0.12401799857616425
+        },
+        {
+          "feature": "Fy_cv",
+          "importance": 0.11493370030075312
+        },
+        {
+          "feature": "Fy_std",
+          "importance": 0.10896490328013897
+        },
+        {
+          "feature": "Fy_min",
+          "importance": 0.0660765990614891
+        },
+        {
+          "feature": "Tx_slope",
+          "importance": 0.057281704037450254
+        },
+        {
+          "feature": "Tx_median",
+          "importance": 0.019917599856853485
+        },
+        {
+          "feature": "Tz_peak_frequency",
+          "importance": 0.018471600487828255
+        },
+        {
+          "feature": "Fx_max",
+          "importance": 0.016376260202378035
+        },
+        {
+          "feature": "Fx_median",
+          "importance": 0.01240378012880683
+        },
+        {
+          "feature": "Ty_last",
+          "importance": 0.007806839887052774
+        },
+        {
+          "feature": "Fy_crest_factor",
+          "importance": 0.005942590069025755
+        },
+        {
+          "feature": "Tz_cv",
+          "importance": 0.005520709790289402
+        },
+        {
+          "feature": "Tx_variance",
+          "importance": 1.661930036789272e-05
+        },
+        {
+          "feature": "Fz_zero_crossing_rate",
+          "importance": 0.0
+        },
+        {
+          "feature": "Tz_max",
+          "importance": 0.0
+        },
+        {
+          "feature": "Tz_power",
+          "importance": 0.0
+        },
+        {
+          "feature": "Tz_variance",
+          "importance": 0.0
+        },
+        {
+          "feature": "Tz_p90",
+          "importance": 0.0
+        }
+      ]
+    },
+    "sklearn_split": {
+      "method": "sklearn_feature_importances_",
+      "description": "LightGBM native importance via sklearn interface",
+      "feature_ranking": [
+        {
+          "feature": "Fz_std",
+          "importance": 64.0
+        },
+        {
+          "feature": "Ty_iqr",
+          "importance": 52.0
+        },
+        {
+          "feature": "Fz_mean_abs",
+          "importance": 51.0
+        },
+        {
+          "feature": "Fz_slope",
+          "importance": 48.0
+        },
+        {
+          "feature": "Fz_peak_frequency",
+          "importance": 43.0
+        },
+        {
+          "feature": "Fz_rms",
+          "importance": 42.0
+        },
+        {
+          "feature": "Fx_min",
+          "importance": 38.0
+        },
+        {
+          "feature": "Fz_variance",
+          "importance": 36.0
+        },
+        {
+          "feature": "Ty_cv",
+          "importance": 32.0
+        },
+        {
+          "feature": "Fz_energy",
+          "importance": 31.0
+        },
+        {
+          "feature": "Fz_mean",
+          "importance": 28.0
+        },
+        {
+          "feature": "Fx_last",
+          "importance": 26.0
+        },
+        {
+          "feature": "Fy_max",
+          "importance": 25.0
+        },
+        {
+          "feature": "Tz_mean_abs",
+          "importance": 24.0
+        },
+        {
+          "feature": "Fx_rms",
+          "importance": 23.0
+        },
+        {
+          "feature": "Fz_iqr",
+          "importance": 23.0
+        },
+        {
+          "feature": "Tx_cv",
+          "importance": 23.0
+        },
+        {
+          "feature": "Tz_shape_factor",
+          "importance": 23.0
+        },
+        {
+          "feature": "Tx_min",
+          "importance": 22.0
+        },
+        {
+          "feature": "Ty_shape_factor",
+          "importance": 21.0
+        },
+        {
+          "feature": "Tz_rms",
+          "importance": 21.0
+        },
+        {
+          "feature": "Fy_first",
+          "importance": 20.0
+        },
+        {
+          "feature": "Fz_min",
+          "importance": 20.0
+        },
+        {
+          "feature": "Fz_last",
+          "importance": 20.0
+        },
+        {
+          "feature": "Fz_peak_to_peak",
+          "importance": 20.0
+        },
+        {
+          "feature": "Tx_rms",
+          "importance": 20.0
+        },
+        {
+          "feature": "Tx_shape_factor",
+          "importance": 20.0
+        },
+        {
+          "feature": "Ty_min",
+          "importance": 20.0
+        },
+        {
+          "feature": "Fx_shape_factor",
+          "importance": 19.0
+        },
+        {
+          "feature": "Fy_rms",
+          "importance": 19.0
+        },
+        {
+          "feature": "Fy_mean_abs",
+          "importance": 19.0
+        },
+        {
+          "feature": "Tz_mean",
+          "importance": 19.0
+        },
+        {
+          "feature": "Tx_zero_crossing_rate",
+          "importance": 18.0
+        },
+        {
+          "feature": "Ty_std",
+          "importance": 18.0
+        },
+        {
+          "feature": "Ty_p90",
+          "importance": 18.0
+        },
+        {
+          "feature": "Fx_entropy",
+          "importance": 17.0
+        },
+        {
+          "feature": "Fy_median",
+          "importance": 17.0
+        },
+        {
+          "feature": "Fy_peak_frequency",
+          "importance": 17.0
+        },
+        {
+          "feature": "Fz_power",
+          "importance": 17.0
+        },
+        {
+          "feature": "Tz_last",
+          "importance": 16.0
+        },
+        {
+          "feature": "Fx_std",
+          "importance": 15.0
+        },
+        {
+          "feature": "Tz_kurtosis",
+          "importance": 15.0
+        },
+        {
+          "feature": "Fx_skewness",
+          "importance": 14.0
+        },
+        {
+          "feature": "Fz_first",
+          "importance": 14.0
+        },
+        {
+          "feature": "Fx_slope",
+          "importance": 13.0
+        },
+        {
+          "feature": "Fy_kurtosis",
+          "importance": 13.0
+        },
+        {
+          "feature": "Tx_energy",
+          "importance": 13.0
+        },
+        {
+          "feature": "Ty_first",
+          "importance": 13.0
+        },
+        {
+          "feature": "Fy_mean",
+          "importance": 12.0
+        },
+        {
+          "feature": "Fz_kurtosis",
+          "importance": 12.0
+        },
+        {
+          "feature": "Tx_peak_to_peak",
+          "importance": 12.0
+        },
+        {
+          "feature": "Tz_peak_to_peak",
+          "importance": 12.0
+        },
+        {
+          "feature": "Fx_mean_abs",
+          "importance": 11.0
+        },
+        {
+          "feature": "Ty_peak_frequency",
+          "importance": 11.0
+        },
+        {
+          "feature": "Fz_entropy",
+          "importance": 10.0
+        },
+        {
+          "feature": "Tx_mean_abs",
+          "importance": 10.0
+        },
+        {
+          "feature": "Tx_first",
+          "importance": 10.0
+        },
+        {
+          "feature": "Tx_peak_frequency",
+          "importance": 10.0
+        },
+        {
+          "feature": "Ty_median",
+          "importance": 10.0
+        },
+        {
+          "feature": "Tz_skewness",
+          "importance": 10.0
+        },
+        {
+          "feature": "Fx_energy",
+          "importance": 9.0
+        },
+        {
+          "feature": "Fx_first",
+          "importance": 9.0
+        },
+        {
+          "feature": "Fy_entropy",
+          "importance": 9.0
+        },
+        {
+          "feature": "Fz_shape_factor",
+          "importance": 9.0
+        },
+        {
+          "feature": "Ty_kurtosis",
+          "importance": 9.0
+        },
+        {
+          "feature": "Ty_rms",
+          "importance": 9.0
+        },
+        {
+          "feature": "Ty_slope",
+          "importance": 9.0
+        },
+        {
+          "feature": "Tz_std",
+          "importance": 9.0
+        },
+        {
+          "feature": "Tz_energy",
+          "importance": 9.0
+        },
+        {
+          "feature": "Fx_mean",
+          "importance": 8.0
+        },
+        {
+          "feature": "Fy_peak_to_peak",
+          "importance": 8.0
+        },
+        {
+          "feature": "Fz_skewness",
+          "importance": 8.0
+        },
+        {
+          "feature": "Tx_max",
+          "importance": 8.0
+        },
+        {
+          "feature": "Ty_peak_to_peak",
+          "importance": 8.0
+        },
+        {
+          "feature": "Ty_entropy",
+          "importance": 8.0
+        },
+        {
+          "feature": "Fx_iqr",
+          "importance": 7.0
+        },
+        {
+          "feature": "Fy_energy",
+          "importance": 7.0
+        },
+        {
+          "feature": "Fz_cv",
+          "importance": 7.0
+        },
+        {
+          "feature": "Fz_crest_factor",
+          "importance": 7.0
+        },
+        {
+          "feature": "Tx_power",
+          "importance": 7.0
+        },
+        {
+          "feature": "Tx_last",
+          "importance": 7.0
+        },
+        {
+          "feature": "Ty_max",
+          "importance": 7.0
+        },
+        {
+          "feature": "Tz_iqr",
+          "importance": 7.0
+        },
+        {
+          "feature": "Tz_entropy",
+          "importance": 7.0
+        },
+        {
+          "feature": "Tz_slope",
+          "importance": 7.0
+        },
+        {
+          "feature": "Fx_variance",
+          "importance": 6.0
+        },
+        {
+          "feature": "Fy_p90",
+          "importance": 6.0
+        },
+        {
+          "feature": "Fy_slope",
+          "importance": 6.0
+        },
+        {
+          "feature": "Tx_entropy",
+          "importance": 6.0
+        },
+        {
+          "feature": "Tx_p90",
+          "importance": 6.0
+        },
+        {
+          "feature": "Tx_slope",
+          "importance": 6.0
+        },
+        {
+          "feature": "Tx_crest_factor",
+          "importance": 6.0
+        },
+        {
+          "feature": "Ty_energy",
+          "importance": 6.0
+        },
+        {
+          "feature": "Fx_zero_crossing_rate",
+          "importance": 5.0
+        },
+        {
+          "feature": "Fx_p90",
+          "importance": 5.0
+        },
+        {
+          "feature": "Fx_crest_factor",
+          "importance": 5.0
+        },
+        {
+          "feature": "Fx_peak_frequency",
+          "importance": 5.0
+        },
+        {
+          "feature": "Tx_mean",
+          "importance": 5.0
+        },
+        {
+          "feature": "Ty_mean_abs",
+          "importance": 5.0
+        },
+        {
+          "feature": "Ty_zero_crossing_rate",
+          "importance": 5.0
+        },
+        {
+          "feature": "Fx_kurtosis",
+          "importance": 4.0
+        },
+        {
+          "feature": "Fx_peak_to_peak",
+          "importance": 4.0
+        },
+        {
+          "feature": "Fy_skewness",
+          "importance": 4.0
+        },
+        {
+          "feature": "Fy_shape_factor",
+          "importance": 4.0
+        },
+        {
+          "feature": "Fz_p90",
+          "importance": 4.0
+        },
+        {
+          "feature": "Tx_std",
+          "importance": 4.0
+        },
+        {
+          "feature": "Tx_skewness",
+          "importance": 4.0
+        },
+        {
+          "feature": "Ty_crest_factor",
+          "importance": 4.0
+        },
+        {
+          "feature": "Tz_median",
+          "importance": 4.0
+        },
+        {
+          "feature": "Tz_crest_factor",
+          "importance": 4.0
+        },
+        {
+          "feature": "Fx_power",
+          "importance": 3.0
+        },
+        {
+          "feature": "Fx_cv",
+          "importance": 3.0
+        },
+        {
+          "feature": "Fy_zero_crossing_rate",
+          "importance": 3.0
+        },
+        {
+          "feature": "Fy_variance",
+          "importance": 3.0
+        },
+        {
+          "feature": "Fy_cv",
+          "importance": 3.0
+        },
+        {
+          "feature": "Fz_median",
+          "importance": 3.0
+        },
+        {
+          "feature": "Tx_kurtosis",
+          "importance": 3.0
+        },
+        {
+          "feature": "Ty_mean",
+          "importance": 3.0
+        },
+        {
+          "feature": "Ty_skewness",
+          "importance": 3.0
+        },
+        {
+          "feature": "Tz_zero_crossing_rate",
+          "importance": 3.0
+        },
+        {
+          "feature": "Fx_max",
+          "importance": 2.0
+        },
+        {
+          "feature": "Fx_median",
+          "importance": 2.0
+        },
+        {
+          "feature": "Fy_std",
+          "importance": 2.0
+        },
+        {
+          "feature": "Fy_iqr",
+          "importance": 2.0
+        },
+        {
+          "feature": "Fy_power",
+          "importance": 2.0
+        },
+        {
+          "feature": "Fy_last",
+          "importance": 2.0
+        },
+        {
+          "feature": "Tx_iqr",
+          "importance": 2.0
+        },
+        {
+          "feature": "Fy_min",
+          "importance": 1.0
+        },
+        {
+          "feature": "Fy_crest_factor",
+          "importance": 1.0
+        },
+        {
+          "feature": "Fz_max",
+          "importance": 1.0
+        },
+        {
+          "feature": "Tx_median",
+          "importance": 1.0
+        },
+        {
+          "feature": "Tx_variance",
+          "importance": 1.0
+        },
+        {
+          "feature": "Ty_power",
+          "importance": 1.0
+        },
+        {
+          "feature": "Ty_last",
+          "importance": 1.0
+        },
+        {
+          "feature": "Ty_variance",
+          "importance": 1.0
+        },
+        {
+          "feature": "Tz_min",
+          "importance": 1.0
+        },
+        {
+          "feature": "Tz_first",
+          "importance": 1.0
+        },
+        {
+          "feature": "Tz_cv",
+          "importance": 1.0
+        },
+        {
+          "feature": "Tz_peak_frequency",
+          "importance": 1.0
+        },
+        {
+          "feature": "Fz_zero_crossing_rate",
+          "importance": 0.0
+        },
+        {
+          "feature": "Tz_max",
+          "importance": 0.0
+        },
+        {
+          "feature": "Tz_power",
+          "importance": 0.0
+        },
+        {
+          "feature": "Tz_variance",
+          "importance": 0.0
+        },
+        {
+          "feature": "Tz_p90",
+          "importance": 0.0
+        }
+      ]
+    },
+    "native_split": {
+      "method": "booster_.feature_importance(importance_type=\"split\")",
+      "description": "LightGBM native split importance",
+      "feature_ranking": [
+        {
+          "feature": "Fz_std",
+          "importance": 64.0
+        },
+        {
+          "feature": "Ty_iqr",
+          "importance": 52.0
+        },
+        {
+          "feature": "Fz_mean_abs",
+          "importance": 51.0
+        },
+        {
+          "feature": "Fz_slope",
+          "importance": 48.0
+        },
+        {
+          "feature": "Fz_peak_frequency",
+          "importance": 43.0
+        },
+        {
+          "feature": "Fz_rms",
+          "importance": 42.0
+        },
+        {
+          "feature": "Fx_min",
+          "importance": 38.0
+        },
+        {
+          "feature": "Fz_variance",
+          "importance": 36.0
+        },
+        {
+          "feature": "Ty_cv",
+          "importance": 32.0
+        },
+        {
+          "feature": "Fz_energy",
+          "importance": 31.0
+        },
+        {
+          "feature": "Fz_mean",
+          "importance": 28.0
+        },
+        {
+          "feature": "Fx_last",
+          "importance": 26.0
+        },
+        {
+          "feature": "Fy_max",
+          "importance": 25.0
+        },
+        {
+          "feature": "Tz_mean_abs",
+          "importance": 24.0
+        },
+        {
+          "feature": "Fx_rms",
+          "importance": 23.0
+        },
+        {
+          "feature": "Fz_iqr",
+          "importance": 23.0
+        },
+        {
+          "feature": "Tx_cv",
+          "importance": 23.0
+        },
+        {
+          "feature": "Tz_shape_factor",
+          "importance": 23.0
+        },
+        {
+          "feature": "Tx_min",
+          "importance": 22.0
+        },
+        {
+          "feature": "Ty_shape_factor",
+          "importance": 21.0
+        },
+        {
+          "feature": "Tz_rms",
+          "importance": 21.0
+        },
+        {
+          "feature": "Fy_first",
+          "importance": 20.0
+        },
+        {
+          "feature": "Fz_min",
+          "importance": 20.0
+        },
+        {
+          "feature": "Fz_last",
+          "importance": 20.0
+        },
+        {
+          "feature": "Fz_peak_to_peak",
+          "importance": 20.0
+        },
+        {
+          "feature": "Tx_rms",
+          "importance": 20.0
+        },
+        {
+          "feature": "Tx_shape_factor",
+          "importance": 20.0
+        },
+        {
+          "feature": "Ty_min",
+          "importance": 20.0
+        },
+        {
+          "feature": "Fx_shape_factor",
+          "importance": 19.0
+        },
+        {
+          "feature": "Fy_rms",
+          "importance": 19.0
+        },
+        {
+          "feature": "Fy_mean_abs",
+          "importance": 19.0
+        },
+        {
+          "feature": "Tz_mean",
+          "importance": 19.0
+        },
+        {
+          "feature": "Tx_zero_crossing_rate",
+          "importance": 18.0
+        },
+        {
+          "feature": "Ty_std",
+          "importance": 18.0
+        },
+        {
+          "feature": "Ty_p90",
+          "importance": 18.0
+        },
+        {
+          "feature": "Fx_entropy",
+          "importance": 17.0
+        },
+        {
+          "feature": "Fy_median",
+          "importance": 17.0
+        },
+        {
+          "feature": "Fy_peak_frequency",
+          "importance": 17.0
+        },
+        {
+          "feature": "Fz_power",
+          "importance": 17.0
+        },
+        {
+          "feature": "Tz_last",
+          "importance": 16.0
+        },
+        {
+          "feature": "Fx_std",
+          "importance": 15.0
+        },
+        {
+          "feature": "Tz_kurtosis",
+          "importance": 15.0
+        },
+        {
+          "feature": "Fx_skewness",
+          "importance": 14.0
+        },
+        {
+          "feature": "Fz_first",
+          "importance": 14.0
+        },
+        {
+          "feature": "Fx_slope",
+          "importance": 13.0
+        },
+        {
+          "feature": "Fy_kurtosis",
+          "importance": 13.0
+        },
+        {
+          "feature": "Tx_energy",
+          "importance": 13.0
+        },
+        {
+          "feature": "Ty_first",
+          "importance": 13.0
+        },
+        {
+          "feature": "Fy_mean",
+          "importance": 12.0
+        },
+        {
+          "feature": "Fz_kurtosis",
+          "importance": 12.0
+        },
+        {
+          "feature": "Tx_peak_to_peak",
+          "importance": 12.0
+        },
+        {
+          "feature": "Tz_peak_to_peak",
+          "importance": 12.0
+        },
+        {
+          "feature": "Fx_mean_abs",
+          "importance": 11.0
+        },
+        {
+          "feature": "Ty_peak_frequency",
+          "importance": 11.0
+        },
+        {
+          "feature": "Fz_entropy",
+          "importance": 10.0
+        },
+        {
+          "feature": "Tx_mean_abs",
+          "importance": 10.0
+        },
+        {
+          "feature": "Tx_first",
+          "importance": 10.0
+        },
+        {
+          "feature": "Tx_peak_frequency",
+          "importance": 10.0
+        },
+        {
+          "feature": "Ty_median",
+          "importance": 10.0
+        },
+        {
+          "feature": "Tz_skewness",
+          "importance": 10.0
+        },
+        {
+          "feature": "Fx_energy",
+          "importance": 9.0
+        },
+        {
+          "feature": "Fx_first",
+          "importance": 9.0
+        },
+        {
+          "feature": "Fy_entropy",
+          "importance": 9.0
+        },
+        {
+          "feature": "Fz_shape_factor",
+          "importance": 9.0
+        },
+        {
+          "feature": "Ty_kurtosis",
+          "importance": 9.0
+        },
+        {
+          "feature": "Ty_rms",
+          "importance": 9.0
+        },
+        {
+          "feature": "Ty_slope",
+          "importance": 9.0
+        },
+        {
+          "feature": "Tz_std",
+          "importance": 9.0
+        },
+        {
+          "feature": "Tz_energy",
+          "importance": 9.0
+        },
+        {
+          "feature": "Fx_mean",
+          "importance": 8.0
+        },
+        {
+          "feature": "Fy_peak_to_peak",
+          "importance": 8.0
+        },
+        {
+          "feature": "Fz_skewness",
+          "importance": 8.0
+        },
+        {
+          "feature": "Tx_max",
+          "importance": 8.0
+        },
+        {
+          "feature": "Ty_peak_to_peak",
+          "importance": 8.0
+        },
+        {
+          "feature": "Ty_entropy",
+          "importance": 8.0
+        },
+        {
+          "feature": "Fx_iqr",
+          "importance": 7.0
+        },
+        {
+          "feature": "Fy_energy",
+          "importance": 7.0
+        },
+        {
+          "feature": "Fz_cv",
+          "importance": 7.0
+        },
+        {
+          "feature": "Fz_crest_factor",
+          "importance": 7.0
+        },
+        {
+          "feature": "Tx_power",
+          "importance": 7.0
+        },
+        {
+          "feature": "Tx_last",
+          "importance": 7.0
+        },
+        {
+          "feature": "Ty_max",
+          "importance": 7.0
+        },
+        {
+          "feature": "Tz_iqr",
+          "importance": 7.0
+        },
+        {
+          "feature": "Tz_entropy",
+          "importance": 7.0
+        },
+        {
+          "feature": "Tz_slope",
+          "importance": 7.0
+        },
+        {
+          "feature": "Fx_variance",
+          "importance": 6.0
+        },
+        {
+          "feature": "Fy_p90",
+          "importance": 6.0
+        },
+        {
+          "feature": "Fy_slope",
+          "importance": 6.0
+        },
+        {
+          "feature": "Tx_entropy",
+          "importance": 6.0
+        },
+        {
+          "feature": "Tx_p90",
+          "importance": 6.0
+        },
+        {
+          "feature": "Tx_slope",
+          "importance": 6.0
+        },
+        {
+          "feature": "Tx_crest_factor",
+          "importance": 6.0
+        },
+        {
+          "feature": "Ty_energy",
+          "importance": 6.0
+        },
+        {
+          "feature": "Fx_zero_crossing_rate",
+          "importance": 5.0
+        },
+        {
+          "feature": "Fx_p90",
+          "importance": 5.0
+        },
+        {
+          "feature": "Fx_crest_factor",
+          "importance": 5.0
+        },
+        {
+          "feature": "Fx_peak_frequency",
+          "importance": 5.0
+        },
+        {
+          "feature": "Tx_mean",
+          "importance": 5.0
+        },
+        {
+          "feature": "Ty_mean_abs",
+          "importance": 5.0
+        },
+        {
+          "feature": "Ty_zero_crossing_rate",
+          "importance": 5.0
+        },
+        {
+          "feature": "Fx_kurtosis",
+          "importance": 4.0
+        },
+        {
+          "feature": "Fx_peak_to_peak",
+          "importance": 4.0
+        },
+        {
+          "feature": "Fy_skewness",
+          "importance": 4.0
+        },
+        {
+          "feature": "Fy_shape_factor",
+          "importance": 4.0
+        },
+        {
+          "feature": "Fz_p90",
+          "importance": 4.0
+        },
+        {
+          "feature": "Tx_std",
+          "importance": 4.0
+        },
+        {
+          "feature": "Tx_skewness",
+          "importance": 4.0
+        },
+        {
+          "feature": "Ty_crest_factor",
+          "importance": 4.0
+        },
+        {
+          "feature": "Tz_median",
+          "importance": 4.0
+        },
+        {
+          "feature": "Tz_crest_factor",
+          "importance": 4.0
+        },
+        {
+          "feature": "Fx_power",
+          "importance": 3.0
+        },
+        {
+          "feature": "Fx_cv",
+          "importance": 3.0
+        },
+        {
+          "feature": "Fy_zero_crossing_rate",
+          "importance": 3.0
+        },
+        {
+          "feature": "Fy_variance",
+          "importance": 3.0
+        },
+        {
+          "feature": "Fy_cv",
+          "importance": 3.0
+        },
+        {
+          "feature": "Fz_median",
+          "importance": 3.0
+        },
+        {
+          "feature": "Tx_kurtosis",
+          "importance": 3.0
+        },
+        {
+          "feature": "Ty_mean",
+          "importance": 3.0
+        },
+        {
+          "feature": "Ty_skewness",
+          "importance": 3.0
+        },
+        {
+          "feature": "Tz_zero_crossing_rate",
+          "importance": 3.0
+        },
+        {
+          "feature": "Fx_max",
+          "importance": 2.0
+        },
+        {
+          "feature": "Fx_median",
+          "importance": 2.0
+        },
+        {
+          "feature": "Fy_std",
+          "importance": 2.0
+        },
+        {
+          "feature": "Fy_iqr",
+          "importance": 2.0
+        },
+        {
+          "feature": "Fy_power",
+          "importance": 2.0
+        },
+        {
+          "feature": "Fy_last",
+          "importance": 2.0
+        },
+        {
+          "feature": "Tx_iqr",
+          "importance": 2.0
+        },
+        {
+          "feature": "Fy_min",
+          "importance": 1.0
+        },
+        {
+          "feature": "Fy_crest_factor",
+          "importance": 1.0
+        },
+        {
+          "feature": "Fz_max",
+          "importance": 1.0
+        },
+        {
+          "feature": "Tx_median",
+          "importance": 1.0
+        },
+        {
+          "feature": "Tx_variance",
+          "importance": 1.0
+        },
+        {
+          "feature": "Ty_power",
+          "importance": 1.0
+        },
+        {
+          "feature": "Ty_last",
+          "importance": 1.0
+        },
+        {
+          "feature": "Ty_variance",
+          "importance": 1.0
+        },
+        {
+          "feature": "Tz_min",
+          "importance": 1.0
+        },
+        {
+          "feature": "Tz_first",
+          "importance": 1.0
+        },
+        {
+          "feature": "Tz_cv",
+          "importance": 1.0
+        },
+        {
+          "feature": "Tz_peak_frequency",
+          "importance": 1.0
+        },
+        {
+          "feature": "Fz_zero_crossing_rate",
+          "importance": 0.0
+        },
+        {
+          "feature": "Tz_max",
+          "importance": 0.0
+        },
+        {
+          "feature": "Tz_power",
+          "importance": 0.0
+        },
+        {
+          "feature": "Tz_variance",
+          "importance": 0.0
+        },
+        {
+          "feature": "Tz_p90",
+          "importance": 0.0
+        }
+      ]
+    }
+  }
+}

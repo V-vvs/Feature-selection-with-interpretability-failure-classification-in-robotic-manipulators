@@ -1,0 +1,577 @@
+Model,Method,Method_Description,Rank,Feature,Importance_Score,Normalized_Score
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,1,Fz_std,64.000000000000,1.000000000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,2,Ty_iqr,52.000000000000,0.812500000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,3,Fz_mean_abs,51.000000000000,0.796875000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,4,Fz_slope,48.000000000000,0.750000000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,5,Fz_peak_frequency,43.000000000000,0.671875000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,6,Fz_rms,42.000000000000,0.656250000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,7,Fx_min,38.000000000000,0.593750000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,8,Fz_variance,36.000000000000,0.562500000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,9,Ty_cv,32.000000000000,0.500000000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,10,Fz_energy,31.000000000000,0.484375000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,11,Fz_mean,28.000000000000,0.437500000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,12,Fx_last,26.000000000000,0.406250000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,13,Fy_max,25.000000000000,0.390625000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,14,Tz_mean_abs,24.000000000000,0.375000000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,15,Fx_rms,23.000000000000,0.359375000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,16,Fz_iqr,23.000000000000,0.359375000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,17,Tx_cv,23.000000000000,0.359375000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,18,Tz_shape_factor,23.000000000000,0.359375000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,19,Tx_min,22.000000000000,0.343750000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,20,Ty_shape_factor,21.000000000000,0.328125000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,21,Tz_rms,21.000000000000,0.328125000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,22,Fy_first,20.000000000000,0.312500000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,23,Fz_min,20.000000000000,0.312500000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,24,Fz_last,20.000000000000,0.312500000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,25,Fz_peak_to_peak,20.000000000000,0.312500000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,26,Tx_rms,20.000000000000,0.312500000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,27,Tx_shape_factor,20.000000000000,0.312500000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,28,Ty_min,20.000000000000,0.312500000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,29,Fx_shape_factor,19.000000000000,0.296875000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,30,Fy_rms,19.000000000000,0.296875000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,31,Fy_mean_abs,19.000000000000,0.296875000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,32,Tz_mean,19.000000000000,0.296875000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,33,Tx_zero_crossing_rate,18.000000000000,0.281250000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,34,Ty_std,18.000000000000,0.281250000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,35,Ty_p90,18.000000000000,0.281250000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,36,Fx_entropy,17.000000000000,0.265625000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,37,Fy_median,17.000000000000,0.265625000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,38,Fy_peak_frequency,17.000000000000,0.265625000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,39,Fz_power,17.000000000000,0.265625000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,40,Tz_last,16.000000000000,0.250000000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,41,Fx_std,15.000000000000,0.234375000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,42,Tz_kurtosis,15.000000000000,0.234375000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,43,Fx_skewness,14.000000000000,0.218750000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,44,Fz_first,14.000000000000,0.218750000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,45,Fx_slope,13.000000000000,0.203125000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,46,Fy_kurtosis,13.000000000000,0.203125000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,47,Tx_energy,13.000000000000,0.203125000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,48,Ty_first,13.000000000000,0.203125000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,49,Fy_mean,12.000000000000,0.187500000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,50,Fz_kurtosis,12.000000000000,0.187500000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,51,Tx_peak_to_peak,12.000000000000,0.187500000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,52,Tz_peak_to_peak,12.000000000000,0.187500000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,53,Fx_mean_abs,11.000000000000,0.171875000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,54,Ty_peak_frequency,11.000000000000,0.171875000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,55,Fz_entropy,10.000000000000,0.156250000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,56,Tx_mean_abs,10.000000000000,0.156250000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,57,Tx_first,10.000000000000,0.156250000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,58,Tx_peak_frequency,10.000000000000,0.156250000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,59,Ty_median,10.000000000000,0.156250000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,60,Tz_skewness,10.000000000000,0.156250000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,61,Fx_energy,9.000000000000,0.140625000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,62,Fx_first,9.000000000000,0.140625000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,63,Fy_entropy,9.000000000000,0.140625000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,64,Fz_shape_factor,9.000000000000,0.140625000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,65,Ty_kurtosis,9.000000000000,0.140625000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,66,Ty_rms,9.000000000000,0.140625000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,67,Ty_slope,9.000000000000,0.140625000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,68,Tz_std,9.000000000000,0.140625000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,69,Tz_energy,9.000000000000,0.140625000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,70,Fx_mean,8.000000000000,0.125000000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,71,Fy_peak_to_peak,8.000000000000,0.125000000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,72,Fz_skewness,8.000000000000,0.125000000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,73,Tx_max,8.000000000000,0.125000000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,74,Ty_peak_to_peak,8.000000000000,0.125000000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,75,Ty_entropy,8.000000000000,0.125000000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,76,Fx_iqr,7.000000000000,0.109375000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,77,Fy_energy,7.000000000000,0.109375000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,78,Fz_cv,7.000000000000,0.109375000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,79,Fz_crest_factor,7.000000000000,0.109375000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,80,Tx_power,7.000000000000,0.109375000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,81,Tx_last,7.000000000000,0.109375000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,82,Ty_max,7.000000000000,0.109375000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,83,Tz_iqr,7.000000000000,0.109375000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,84,Tz_entropy,7.000000000000,0.109375000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,85,Tz_slope,7.000000000000,0.109375000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,86,Fx_variance,6.000000000000,0.093750000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,87,Fy_p90,6.000000000000,0.093750000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,88,Fy_slope,6.000000000000,0.093750000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,89,Tx_entropy,6.000000000000,0.093750000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,90,Tx_p90,6.000000000000,0.093750000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,91,Tx_slope,6.000000000000,0.093750000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,92,Tx_crest_factor,6.000000000000,0.093750000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,93,Ty_energy,6.000000000000,0.093750000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,94,Fx_zero_crossing_rate,5.000000000000,0.078125000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,95,Fx_p90,5.000000000000,0.078125000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,96,Fx_crest_factor,5.000000000000,0.078125000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,97,Fx_peak_frequency,5.000000000000,0.078125000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,98,Tx_mean,5.000000000000,0.078125000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,99,Ty_mean_abs,5.000000000000,0.078125000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,100,Ty_zero_crossing_rate,5.000000000000,0.078125000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,101,Fx_kurtosis,4.000000000000,0.062500000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,102,Fx_peak_to_peak,4.000000000000,0.062500000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,103,Fy_skewness,4.000000000000,0.062500000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,104,Fy_shape_factor,4.000000000000,0.062500000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,105,Fz_p90,4.000000000000,0.062500000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,106,Tx_std,4.000000000000,0.062500000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,107,Tx_skewness,4.000000000000,0.062500000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,108,Ty_crest_factor,4.000000000000,0.062500000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,109,Tz_median,4.000000000000,0.062500000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,110,Tz_crest_factor,4.000000000000,0.062500000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,111,Fx_power,3.000000000000,0.046875000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,112,Fx_cv,3.000000000000,0.046875000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,113,Fy_zero_crossing_rate,3.000000000000,0.046875000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,114,Fy_variance,3.000000000000,0.046875000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,115,Fy_cv,3.000000000000,0.046875000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,116,Fz_median,3.000000000000,0.046875000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,117,Tx_kurtosis,3.000000000000,0.046875000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,118,Ty_mean,3.000000000000,0.046875000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,119,Ty_skewness,3.000000000000,0.046875000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,120,Tz_zero_crossing_rate,3.000000000000,0.046875000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,121,Fx_max,2.000000000000,0.031250000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,122,Fx_median,2.000000000000,0.031250000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,123,Fy_std,2.000000000000,0.031250000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,124,Fy_iqr,2.000000000000,0.031250000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,125,Fy_power,2.000000000000,0.031250000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,126,Fy_last,2.000000000000,0.031250000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,127,Tx_iqr,2.000000000000,0.031250000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,128,Fy_min,1.000000000000,0.015625000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,129,Fy_crest_factor,1.000000000000,0.015625000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,130,Fz_max,1.000000000000,0.015625000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,131,Tx_median,1.000000000000,0.015625000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,132,Tx_variance,1.000000000000,0.015625000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,133,Ty_power,1.000000000000,0.015625000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,134,Ty_last,1.000000000000,0.015625000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,135,Ty_variance,1.000000000000,0.015625000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,136,Tz_min,1.000000000000,0.015625000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,137,Tz_first,1.000000000000,0.015625000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,138,Tz_cv,1.000000000000,0.015625000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,139,Tz_peak_frequency,1.000000000000,0.015625000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,140,Fz_zero_crossing_rate,0.000000000000,0.000000000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,141,Tz_max,0.000000000000,0.000000000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,142,Tz_power,0.000000000000,0.000000000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,143,Tz_variance,0.000000000000,0.000000000000
+LightGBM,sklearn_gain,LightGBM native importance via sklearn interface,144,Tz_p90,0.000000000000,0.000000000000
+LightGBM,native_gain,LightGBM native gain importance,1,Fx_rms,322.540908243507,1.000000000000
+LightGBM,native_gain,LightGBM native gain importance,2,Fz_rms,268.196651076243,0.831512047687
+LightGBM,native_gain,LightGBM native gain importance,3,Fz_mean_abs,250.066378183772,0.775301277427
+LightGBM,native_gain,LightGBM native gain importance,4,Fz_std,219.921052013175,0.681839253231
+LightGBM,native_gain,LightGBM native gain importance,5,Fz_mean,208.729888844304,0.647142373292
+LightGBM,native_gain,LightGBM native gain importance,6,Fz_energy,181.839650303707,0.563772363927
+LightGBM,native_gain,LightGBM native gain importance,7,Fz_min,166.473719899077,0.516132111135
+LightGBM,native_gain,LightGBM native gain importance,8,Fx_energy,127.578453253955,0.395541929700
+LightGBM,native_gain,LightGBM native gain importance,9,Fx_mean_abs,113.443426249316,0.351717947553
+LightGBM,native_gain,LightGBM native gain importance,10,Ty_iqr,87.602797075990,0.271602128093
+LightGBM,native_gain,LightGBM native gain importance,11,Fz_power,82.520744653419,0.255845824652
+LightGBM,native_gain,LightGBM native gain importance,12,Ty_cv,62.841405962943,0.194832358801
+LightGBM,native_gain,LightGBM native gain importance,13,Fz_peak_to_peak,54.001588840503,0.167425549629
+LightGBM,native_gain,LightGBM native gain importance,14,Fz_peak_frequency,39.640177871683,0.122899690732
+LightGBM,native_gain,LightGBM native gain importance,15,Tx_shape_factor,39.029426361900,0.121006127795
+LightGBM,native_gain,LightGBM native gain importance,16,Tx_crest_factor,36.756892197300,0.113960403961
+LightGBM,native_gain,LightGBM native gain importance,17,Tx_cv,34.934812473366,0.108311260930
+LightGBM,native_gain,LightGBM native gain importance,18,Fx_power,31.838865369558,0.098712642508
+LightGBM,native_gain,LightGBM native gain importance,19,Fz_variance,29.918856756936,0.092759882521
+LightGBM,native_gain,LightGBM native gain importance,20,Fx_min,27.587154051056,0.085530713612
+LightGBM,native_gain,LightGBM native gain importance,21,Ty_std,26.830970216542,0.083186254924
+LightGBM,native_gain,LightGBM native gain importance,22,Ty_p90,18.722805605386,0.058047847969
+LightGBM,native_gain,LightGBM native gain importance,23,Tx_energy,18.515815098770,0.057406098345
+LightGBM,native_gain,LightGBM native gain importance,24,Fx_std,17.041248778813,0.052834379588
+LightGBM,native_gain,LightGBM native gain importance,25,Tz_rms,14.185499719460,0.043980466840
+LightGBM,native_gain,LightGBM native gain importance,26,Ty_shape_factor,12.794843458512,0.039668901313
+LightGBM,native_gain,LightGBM native gain importance,27,Fz_slope,11.820885224079,0.036649258813
+LightGBM,native_gain,LightGBM native gain importance,28,Fz_entropy,11.769903367851,0.036491195588
+LightGBM,native_gain,LightGBM native gain importance,29,Fy_peak_frequency,11.607275911607,0.035986988363
+LightGBM,native_gain,LightGBM native gain importance,30,Tx_min,11.346044226200,0.035177070369
+LightGBM,native_gain,LightGBM native gain importance,31,Tz_mean_abs,11.159145519836,0.034597612999
+LightGBM,native_gain,LightGBM native gain importance,32,Fz_last,10.973427531688,0.034021816307
+LightGBM,native_gain,LightGBM native gain importance,33,Tz_mean,10.408201100305,0.032269398499
+LightGBM,native_gain,LightGBM native gain importance,34,Fy_energy,10.320538608823,0.031997611295
+LightGBM,native_gain,LightGBM native gain importance,35,Tz_last,9.937496043742,0.030810033052
+LightGBM,native_gain,LightGBM native gain importance,36,Fy_mean_abs,9.265783159761,0.028727466572
+LightGBM,native_gain,LightGBM native gain importance,37,Fy_rms,8.969894668204,0.027810099243
+LightGBM,native_gain,LightGBM native gain importance,38,Ty_min,8.961510218680,0.027784104247
+LightGBM,native_gain,LightGBM native gain importance,39,Fy_max,8.620719099417,0.026727521623
+LightGBM,native_gain,LightGBM native gain importance,40,Ty_first,7.493995368015,0.023234247739
+LightGBM,native_gain,LightGBM native gain importance,41,Tz_kurtosis,7.120102445595,0.022075036883
+LightGBM,native_gain,LightGBM native gain importance,42,Fy_p90,6.723734677187,0.020846145420
+LightGBM,native_gain,LightGBM native gain importance,43,Fy_entropy,6.588688582182,0.020427450949
+LightGBM,native_gain,LightGBM native gain importance,44,Tx_mean_abs,6.355453714961,0.019704333784
+LightGBM,native_gain,LightGBM native gain importance,45,Fy_first,6.312167184427,0.019570129007
+LightGBM,native_gain,LightGBM native gain importance,46,Fy_median,6.308102314360,0.019557526358
+LightGBM,native_gain,LightGBM native gain importance,47,Ty_slope,6.281426382717,0.019474820781
+LightGBM,native_gain,LightGBM native gain importance,48,Fz_crest_factor,6.161528265569,0.019103090827
+LightGBM,native_gain,LightGBM native gain importance,49,Tx_rms,6.159137262963,0.019095677806
+LightGBM,native_gain,LightGBM native gain importance,50,Ty_max,5.774291716516,0.017902509632
+LightGBM,native_gain,LightGBM native gain importance,51,Fx_variance,5.649841949344,0.017516667824
+LightGBM,native_gain,LightGBM native gain importance,52,Fy_mean,5.257212962249,0.016299368012
+LightGBM,native_gain,LightGBM native gain importance,53,Ty_mean,5.073109984398,0.015728578468
+LightGBM,native_gain,LightGBM native gain importance,54,Tz_peak_to_peak,4.536481190473,0.014064824258
+LightGBM,native_gain,LightGBM native gain importance,55,Fx_kurtosis,4.486366181634,0.013909448591
+LightGBM,native_gain,LightGBM native gain importance,56,Tx_first,4.374535374343,0.013562730378
+LightGBM,native_gain,LightGBM native gain importance,57,Tz_shape_factor,4.302050462808,0.013337999469
+LightGBM,native_gain,LightGBM native gain importance,58,Fz_shape_factor,4.219594868831,0.013082355636
+LightGBM,native_gain,LightGBM native gain importance,59,Fz_iqr,4.208450338949,0.013047803337
+LightGBM,native_gain,LightGBM native gain importance,60,Fx_p90,3.989232137799,0.012368143190
+LightGBM,native_gain,LightGBM native gain importance,61,Fy_power,3.789451926947,0.011748748237
+LightGBM,native_gain,LightGBM native gain importance,62,Tx_peak_frequency,3.753550991416,0.011637441625
+LightGBM,native_gain,LightGBM native gain importance,63,Fx_skewness,3.733561971225,0.011575468028
+LightGBM,native_gain,LightGBM native gain importance,64,Fx_shape_factor,3.619906885666,0.011223093856
+LightGBM,native_gain,LightGBM native gain importance,65,Fx_last,3.499331009560,0.010849262590
+LightGBM,native_gain,LightGBM native gain importance,66,Fx_entropy,3.354213543236,0.010399343021
+LightGBM,native_gain,LightGBM native gain importance,67,Fz_cv,3.188498021336,0.009885561614
+LightGBM,native_gain,LightGBM native gain importance,68,Tx_power,3.102905435488,0.009620191908
+LightGBM,native_gain,LightGBM native gain importance,69,Fz_first,3.077820906474,0.009542420288
+LightGBM,native_gain,LightGBM native gain importance,70,Ty_energy,2.985976365395,0.009257667133
+LightGBM,native_gain,LightGBM native gain importance,71,Fx_first,2.816542791203,0.008732358343
+LightGBM,native_gain,LightGBM native gain importance,72,Tz_iqr,2.706994827837,0.008392717819
+LightGBM,native_gain,LightGBM native gain importance,73,Ty_peak_frequency,2.626389662968,0.008142811023
+LightGBM,native_gain,LightGBM native gain importance,74,Tz_energy,2.626107935095,0.008141937559
+LightGBM,native_gain,LightGBM native gain importance,75,Fx_slope,2.525713797586,0.007830677390
+LightGBM,native_gain,LightGBM native gain importance,76,Tz_median,2.257924005389,0.007000426760
+LightGBM,native_gain,LightGBM native gain importance,77,Ty_rms,2.128782543354,0.006600038907
+LightGBM,native_gain,LightGBM native gain importance,78,Tx_zero_crossing_rate,1.994425285608,0.006183480094
+LightGBM,native_gain,LightGBM native gain importance,79,Tx_skewness,1.912055030465,0.005928100844
+LightGBM,native_gain,LightGBM native gain importance,80,Fz_max,1.807150006294,0.005602855204
+LightGBM,native_gain,LightGBM native gain importance,81,Tx_p90,1.741164244944,0.005398274143
+LightGBM,native_gain,LightGBM native gain importance,82,Tx_peak_to_peak,1.619815532817,0.005022046790
+LightGBM,native_gain,LightGBM native gain importance,83,Tz_std,1.545029773377,0.004790182373
+LightGBM,native_gain,LightGBM native gain importance,84,Fy_peak_to_peak,1.516583659686,0.004701988557
+LightGBM,native_gain,LightGBM native gain importance,85,Fy_shape_factor,1.488888527732,0.004616123071
+LightGBM,native_gain,LightGBM native gain importance,86,Fx_mean,1.482340891846,0.004595822899
+LightGBM,native_gain,LightGBM native gain importance,87,Fz_p90,1.384681016207,0.004293039986
+LightGBM,native_gain,LightGBM native gain importance,88,Tx_kurtosis,1.323163095862,0.004102310938
+LightGBM,native_gain,LightGBM native gain importance,89,Tx_std,1.290302976966,0.004000432020
+LightGBM,native_gain,LightGBM native gain importance,90,Ty_kurtosis,1.273699288955,0.003948954245
+LightGBM,native_gain,LightGBM native gain importance,91,Fz_kurtosis,1.242218020605,0.003851350290
+LightGBM,native_gain,LightGBM native gain importance,92,Fx_peak_frequency,1.227668082342,0.003806239925
+LightGBM,native_gain,LightGBM native gain importance,93,Fz_median,1.177164399996,0.003649659221
+LightGBM,native_gain,LightGBM native gain importance,94,Fy_kurtosis,1.140358631499,0.003535547282
+LightGBM,native_gain,LightGBM native gain importance,95,Tz_crest_factor,1.123578414321,0.003483522200
+LightGBM,native_gain,LightGBM native gain importance,96,Ty_crest_factor,1.084993161261,0.003363893179
+LightGBM,native_gain,LightGBM native gain importance,97,Ty_mean_abs,1.031673397869,0.003198581549
+LightGBM,native_gain,LightGBM native gain importance,98,Tx_entropy,0.959727104753,0.002975520563
+LightGBM,native_gain,LightGBM native gain importance,99,Ty_variance,0.959273993969,0.002974115746
+LightGBM,native_gain,LightGBM native gain importance,100,Fx_iqr,0.944077898283,0.002927002046
+LightGBM,native_gain,LightGBM native gain importance,101,Ty_zero_crossing_rate,0.882943901466,0.002737463307
+LightGBM,native_gain,LightGBM native gain importance,102,Tz_skewness,0.852069649147,0.002641741334
+LightGBM,native_gain,LightGBM native gain importance,103,Fx_peak_to_peak,0.807647302747,0.002504015094
+LightGBM,native_gain,LightGBM native gain importance,104,Ty_entropy,0.765724597499,0.002374038697
+LightGBM,native_gain,LightGBM native gain importance,105,Ty_power,0.749203026295,0.002322815516
+LightGBM,native_gain,LightGBM native gain importance,106,Tz_slope,0.735185220838,0.002279354966
+LightGBM,native_gain,LightGBM native gain importance,107,Tz_zero_crossing_rate,0.641324684955,0.001988351457
+LightGBM,native_gain,LightGBM native gain importance,108,Ty_median,0.623019052204,0.001931597005
+LightGBM,native_gain,LightGBM native gain importance,109,Tz_entropy,0.607426993549,0.001883255668
+LightGBM,native_gain,LightGBM native gain importance,110,Ty_peak_to_peak,0.588680541608,0.001825134507
+LightGBM,native_gain,LightGBM native gain importance,111,Fz_skewness,0.584886068944,0.001813370193
+LightGBM,native_gain,LightGBM native gain importance,112,Fy_iqr,0.568994998932,0.001764101807
+LightGBM,native_gain,LightGBM native gain importance,113,Fx_cv,0.440484926105,0.001365671500
+LightGBM,native_gain,LightGBM native gain importance,114,Fy_last,0.317761702463,0.000985182637
+LightGBM,native_gain,LightGBM native gain importance,115,Fx_crest_factor,0.301603995264,0.000935087574
+LightGBM,native_gain,LightGBM native gain importance,116,Fy_skewness,0.295697360532,0.000916774750
+LightGBM,native_gain,LightGBM native gain importance,117,Tx_last,0.278749234276,0.000864229086
+LightGBM,native_gain,LightGBM native gain importance,118,Tx_iqr,0.273747514002,0.000848721843
+LightGBM,native_gain,LightGBM native gain importance,119,Fy_variance,0.272357558518,0.000844412450
+LightGBM,native_gain,LightGBM native gain importance,120,Fy_slope,0.244888045127,0.000759246467
+LightGBM,native_gain,LightGBM native gain importance,121,Tx_max,0.244878001133,0.000759215327
+LightGBM,native_gain,LightGBM native gain importance,122,Fx_zero_crossing_rate,0.233480686322,0.000723879298
+LightGBM,native_gain,LightGBM native gain importance,123,Tx_mean,0.205621640198,0.000637505615
+LightGBM,native_gain,LightGBM native gain importance,124,Ty_skewness,0.173541396856,0.000538044609
+LightGBM,native_gain,LightGBM native gain importance,125,Tz_first,0.138923004270,0.000430714371
+LightGBM,native_gain,LightGBM native gain importance,126,Fy_zero_crossing_rate,0.130601551384,0.000404914688
+LightGBM,native_gain,LightGBM native gain importance,127,Tz_min,0.124017998576,0.000384503160
+LightGBM,native_gain,LightGBM native gain importance,128,Fy_cv,0.114933700301,0.000356338366
+LightGBM,native_gain,LightGBM native gain importance,129,Fy_std,0.108964903280,0.000337832816
+LightGBM,native_gain,LightGBM native gain importance,130,Fy_min,0.066076599061,0.000204862693
+LightGBM,native_gain,LightGBM native gain importance,131,Tx_slope,0.057281704037,0.000177595159
+LightGBM,native_gain,LightGBM native gain importance,132,Tx_median,0.019917599857,0.000061752166
+LightGBM,native_gain,LightGBM native gain importance,133,Tz_peak_frequency,0.018471600488,0.000057269016
+LightGBM,native_gain,LightGBM native gain importance,134,Fx_max,0.016376260202,0.000050772661
+LightGBM,native_gain,LightGBM native gain importance,135,Fx_median,0.012403780129,0.000038456456
+LightGBM,native_gain,LightGBM native gain importance,136,Ty_last,0.007806839887,0.000024204185
+LightGBM,native_gain,LightGBM native gain importance,137,Fy_crest_factor,0.005942590069,0.000018424299
+LightGBM,native_gain,LightGBM native gain importance,138,Tz_cv,0.005520709790,0.000017116309
+LightGBM,native_gain,LightGBM native gain importance,139,Tx_variance,0.000016619300,0.000000051526
+LightGBM,native_gain,LightGBM native gain importance,140,Fz_zero_crossing_rate,0.000000000000,0.000000000000
+LightGBM,native_gain,LightGBM native gain importance,141,Tz_max,0.000000000000,0.000000000000
+LightGBM,native_gain,LightGBM native gain importance,142,Tz_power,0.000000000000,0.000000000000
+LightGBM,native_gain,LightGBM native gain importance,143,Tz_variance,0.000000000000,0.000000000000
+LightGBM,native_gain,LightGBM native gain importance,144,Tz_p90,0.000000000000,0.000000000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,1,Fz_std,64.000000000000,1.000000000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,2,Ty_iqr,52.000000000000,0.812500000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,3,Fz_mean_abs,51.000000000000,0.796875000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,4,Fz_slope,48.000000000000,0.750000000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,5,Fz_peak_frequency,43.000000000000,0.671875000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,6,Fz_rms,42.000000000000,0.656250000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,7,Fx_min,38.000000000000,0.593750000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,8,Fz_variance,36.000000000000,0.562500000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,9,Ty_cv,32.000000000000,0.500000000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,10,Fz_energy,31.000000000000,0.484375000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,11,Fz_mean,28.000000000000,0.437500000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,12,Fx_last,26.000000000000,0.406250000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,13,Fy_max,25.000000000000,0.390625000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,14,Tz_mean_abs,24.000000000000,0.375000000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,15,Fx_rms,23.000000000000,0.359375000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,16,Fz_iqr,23.000000000000,0.359375000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,17,Tx_cv,23.000000000000,0.359375000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,18,Tz_shape_factor,23.000000000000,0.359375000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,19,Tx_min,22.000000000000,0.343750000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,20,Ty_shape_factor,21.000000000000,0.328125000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,21,Tz_rms,21.000000000000,0.328125000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,22,Fy_first,20.000000000000,0.312500000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,23,Fz_min,20.000000000000,0.312500000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,24,Fz_last,20.000000000000,0.312500000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,25,Fz_peak_to_peak,20.000000000000,0.312500000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,26,Tx_rms,20.000000000000,0.312500000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,27,Tx_shape_factor,20.000000000000,0.312500000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,28,Ty_min,20.000000000000,0.312500000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,29,Fx_shape_factor,19.000000000000,0.296875000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,30,Fy_rms,19.000000000000,0.296875000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,31,Fy_mean_abs,19.000000000000,0.296875000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,32,Tz_mean,19.000000000000,0.296875000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,33,Tx_zero_crossing_rate,18.000000000000,0.281250000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,34,Ty_std,18.000000000000,0.281250000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,35,Ty_p90,18.000000000000,0.281250000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,36,Fx_entropy,17.000000000000,0.265625000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,37,Fy_median,17.000000000000,0.265625000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,38,Fy_peak_frequency,17.000000000000,0.265625000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,39,Fz_power,17.000000000000,0.265625000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,40,Tz_last,16.000000000000,0.250000000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,41,Fx_std,15.000000000000,0.234375000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,42,Tz_kurtosis,15.000000000000,0.234375000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,43,Fx_skewness,14.000000000000,0.218750000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,44,Fz_first,14.000000000000,0.218750000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,45,Fx_slope,13.000000000000,0.203125000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,46,Fy_kurtosis,13.000000000000,0.203125000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,47,Tx_energy,13.000000000000,0.203125000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,48,Ty_first,13.000000000000,0.203125000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,49,Fy_mean,12.000000000000,0.187500000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,50,Fz_kurtosis,12.000000000000,0.187500000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,51,Tx_peak_to_peak,12.000000000000,0.187500000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,52,Tz_peak_to_peak,12.000000000000,0.187500000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,53,Fx_mean_abs,11.000000000000,0.171875000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,54,Ty_peak_frequency,11.000000000000,0.171875000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,55,Fz_entropy,10.000000000000,0.156250000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,56,Tx_mean_abs,10.000000000000,0.156250000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,57,Tx_first,10.000000000000,0.156250000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,58,Tx_peak_frequency,10.000000000000,0.156250000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,59,Ty_median,10.000000000000,0.156250000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,60,Tz_skewness,10.000000000000,0.156250000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,61,Fx_energy,9.000000000000,0.140625000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,62,Fx_first,9.000000000000,0.140625000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,63,Fy_entropy,9.000000000000,0.140625000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,64,Fz_shape_factor,9.000000000000,0.140625000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,65,Ty_kurtosis,9.000000000000,0.140625000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,66,Ty_rms,9.000000000000,0.140625000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,67,Ty_slope,9.000000000000,0.140625000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,68,Tz_std,9.000000000000,0.140625000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,69,Tz_energy,9.000000000000,0.140625000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,70,Fx_mean,8.000000000000,0.125000000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,71,Fy_peak_to_peak,8.000000000000,0.125000000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,72,Fz_skewness,8.000000000000,0.125000000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,73,Tx_max,8.000000000000,0.125000000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,74,Ty_peak_to_peak,8.000000000000,0.125000000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,75,Ty_entropy,8.000000000000,0.125000000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,76,Fx_iqr,7.000000000000,0.109375000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,77,Fy_energy,7.000000000000,0.109375000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,78,Fz_cv,7.000000000000,0.109375000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,79,Fz_crest_factor,7.000000000000,0.109375000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,80,Tx_power,7.000000000000,0.109375000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,81,Tx_last,7.000000000000,0.109375000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,82,Ty_max,7.000000000000,0.109375000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,83,Tz_iqr,7.000000000000,0.109375000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,84,Tz_entropy,7.000000000000,0.109375000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,85,Tz_slope,7.000000000000,0.109375000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,86,Fx_variance,6.000000000000,0.093750000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,87,Fy_p90,6.000000000000,0.093750000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,88,Fy_slope,6.000000000000,0.093750000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,89,Tx_entropy,6.000000000000,0.093750000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,90,Tx_p90,6.000000000000,0.093750000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,91,Tx_slope,6.000000000000,0.093750000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,92,Tx_crest_factor,6.000000000000,0.093750000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,93,Ty_energy,6.000000000000,0.093750000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,94,Fx_zero_crossing_rate,5.000000000000,0.078125000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,95,Fx_p90,5.000000000000,0.078125000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,96,Fx_crest_factor,5.000000000000,0.078125000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,97,Fx_peak_frequency,5.000000000000,0.078125000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,98,Tx_mean,5.000000000000,0.078125000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,99,Ty_mean_abs,5.000000000000,0.078125000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,100,Ty_zero_crossing_rate,5.000000000000,0.078125000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,101,Fx_kurtosis,4.000000000000,0.062500000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,102,Fx_peak_to_peak,4.000000000000,0.062500000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,103,Fy_skewness,4.000000000000,0.062500000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,104,Fy_shape_factor,4.000000000000,0.062500000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,105,Fz_p90,4.000000000000,0.062500000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,106,Tx_std,4.000000000000,0.062500000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,107,Tx_skewness,4.000000000000,0.062500000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,108,Ty_crest_factor,4.000000000000,0.062500000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,109,Tz_median,4.000000000000,0.062500000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,110,Tz_crest_factor,4.000000000000,0.062500000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,111,Fx_power,3.000000000000,0.046875000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,112,Fx_cv,3.000000000000,0.046875000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,113,Fy_zero_crossing_rate,3.000000000000,0.046875000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,114,Fy_variance,3.000000000000,0.046875000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,115,Fy_cv,3.000000000000,0.046875000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,116,Fz_median,3.000000000000,0.046875000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,117,Tx_kurtosis,3.000000000000,0.046875000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,118,Ty_mean,3.000000000000,0.046875000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,119,Ty_skewness,3.000000000000,0.046875000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,120,Tz_zero_crossing_rate,3.000000000000,0.046875000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,121,Fx_max,2.000000000000,0.031250000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,122,Fx_median,2.000000000000,0.031250000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,123,Fy_std,2.000000000000,0.031250000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,124,Fy_iqr,2.000000000000,0.031250000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,125,Fy_power,2.000000000000,0.031250000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,126,Fy_last,2.000000000000,0.031250000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,127,Tx_iqr,2.000000000000,0.031250000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,128,Fy_min,1.000000000000,0.015625000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,129,Fy_crest_factor,1.000000000000,0.015625000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,130,Fz_max,1.000000000000,0.015625000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,131,Tx_median,1.000000000000,0.015625000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,132,Tx_variance,1.000000000000,0.015625000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,133,Ty_power,1.000000000000,0.015625000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,134,Ty_last,1.000000000000,0.015625000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,135,Ty_variance,1.000000000000,0.015625000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,136,Tz_min,1.000000000000,0.015625000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,137,Tz_first,1.000000000000,0.015625000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,138,Tz_cv,1.000000000000,0.015625000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,139,Tz_peak_frequency,1.000000000000,0.015625000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,140,Fz_zero_crossing_rate,0.000000000000,0.000000000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,141,Tz_max,0.000000000000,0.000000000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,142,Tz_power,0.000000000000,0.000000000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,143,Tz_variance,0.000000000000,0.000000000000
+LightGBM,sklearn_split,LightGBM native importance via sklearn interface,144,Tz_p90,0.000000000000,0.000000000000
+LightGBM,native_split,LightGBM native split importance,1,Fz_std,64.000000000000,1.000000000000
+LightGBM,native_split,LightGBM native split importance,2,Ty_iqr,52.000000000000,0.812500000000
+LightGBM,native_split,LightGBM native split importance,3,Fz_mean_abs,51.000000000000,0.796875000000
+LightGBM,native_split,LightGBM native split importance,4,Fz_slope,48.000000000000,0.750000000000
+LightGBM,native_split,LightGBM native split importance,5,Fz_peak_frequency,43.000000000000,0.671875000000
+LightGBM,native_split,LightGBM native split importance,6,Fz_rms,42.000000000000,0.656250000000
+LightGBM,native_split,LightGBM native split importance,7,Fx_min,38.000000000000,0.593750000000
+LightGBM,native_split,LightGBM native split importance,8,Fz_variance,36.000000000000,0.562500000000
+LightGBM,native_split,LightGBM native split importance,9,Ty_cv,32.000000000000,0.500000000000
+LightGBM,native_split,LightGBM native split importance,10,Fz_energy,31.000000000000,0.484375000000
+LightGBM,native_split,LightGBM native split importance,11,Fz_mean,28.000000000000,0.437500000000
+LightGBM,native_split,LightGBM native split importance,12,Fx_last,26.000000000000,0.406250000000
+LightGBM,native_split,LightGBM native split importance,13,Fy_max,25.000000000000,0.390625000000
+LightGBM,native_split,LightGBM native split importance,14,Tz_mean_abs,24.000000000000,0.375000000000
+LightGBM,native_split,LightGBM native split importance,15,Fx_rms,23.000000000000,0.359375000000
+LightGBM,native_split,LightGBM native split importance,16,Fz_iqr,23.000000000000,0.359375000000
+LightGBM,native_split,LightGBM native split importance,17,Tx_cv,23.000000000000,0.359375000000
+LightGBM,native_split,LightGBM native split importance,18,Tz_shape_factor,23.000000000000,0.359375000000
+LightGBM,native_split,LightGBM native split importance,19,Tx_min,22.000000000000,0.343750000000
+LightGBM,native_split,LightGBM native split importance,20,Ty_shape_factor,21.000000000000,0.328125000000
+LightGBM,native_split,LightGBM native split importance,21,Tz_rms,21.000000000000,0.328125000000
+LightGBM,native_split,LightGBM native split importance,22,Fy_first,20.000000000000,0.312500000000
+LightGBM,native_split,LightGBM native split importance,23,Fz_min,20.000000000000,0.312500000000
+LightGBM,native_split,LightGBM native split importance,24,Fz_last,20.000000000000,0.312500000000
+LightGBM,native_split,LightGBM native split importance,25,Fz_peak_to_peak,20.000000000000,0.312500000000
+LightGBM,native_split,LightGBM native split importance,26,Tx_rms,20.000000000000,0.312500000000
+LightGBM,native_split,LightGBM native split importance,27,Tx_shape_factor,20.000000000000,0.312500000000
+LightGBM,native_split,LightGBM native split importance,28,Ty_min,20.000000000000,0.312500000000
+LightGBM,native_split,LightGBM native split importance,29,Fx_shape_factor,19.000000000000,0.296875000000
+LightGBM,native_split,LightGBM native split importance,30,Fy_rms,19.000000000000,0.296875000000
+LightGBM,native_split,LightGBM native split importance,31,Fy_mean_abs,19.000000000000,0.296875000000
+LightGBM,native_split,LightGBM native split importance,32,Tz_mean,19.000000000000,0.296875000000
+LightGBM,native_split,LightGBM native split importance,33,Tx_zero_crossing_rate,18.000000000000,0.281250000000
+LightGBM,native_split,LightGBM native split importance,34,Ty_std,18.000000000000,0.281250000000
+LightGBM,native_split,LightGBM native split importance,35,Ty_p90,18.000000000000,0.281250000000
+LightGBM,native_split,LightGBM native split importance,36,Fx_entropy,17.000000000000,0.265625000000
+LightGBM,native_split,LightGBM native split importance,37,Fy_median,17.000000000000,0.265625000000
+LightGBM,native_split,LightGBM native split importance,38,Fy_peak_frequency,17.000000000000,0.265625000000
+LightGBM,native_split,LightGBM native split importance,39,Fz_power,17.000000000000,0.265625000000
+LightGBM,native_split,LightGBM native split importance,40,Tz_last,16.000000000000,0.250000000000
+LightGBM,native_split,LightGBM native split importance,41,Fx_std,15.000000000000,0.234375000000
+LightGBM,native_split,LightGBM native split importance,42,Tz_kurtosis,15.000000000000,0.234375000000
+LightGBM,native_split,LightGBM native split importance,43,Fx_skewness,14.000000000000,0.218750000000
+LightGBM,native_split,LightGBM native split importance,44,Fz_first,14.000000000000,0.218750000000
+LightGBM,native_split,LightGBM native split importance,45,Fx_slope,13.000000000000,0.203125000000
+LightGBM,native_split,LightGBM native split importance,46,Fy_kurtosis,13.000000000000,0.203125000000
+LightGBM,native_split,LightGBM native split importance,47,Tx_energy,13.000000000000,0.203125000000
+LightGBM,native_split,LightGBM native split importance,48,Ty_first,13.000000000000,0.203125000000
+LightGBM,native_split,LightGBM native split importance,49,Fy_mean,12.000000000000,0.187500000000
+LightGBM,native_split,LightGBM native split importance,50,Fz_kurtosis,12.000000000000,0.187500000000
+LightGBM,native_split,LightGBM native split importance,51,Tx_peak_to_peak,12.000000000000,0.187500000000
+LightGBM,native_split,LightGBM native split importance,52,Tz_peak_to_peak,12.000000000000,0.187500000000
+LightGBM,native_split,LightGBM native split importance,53,Fx_mean_abs,11.000000000000,0.171875000000
+LightGBM,native_split,LightGBM native split importance,54,Ty_peak_frequency,11.000000000000,0.171875000000
+LightGBM,native_split,LightGBM native split importance,55,Fz_entropy,10.000000000000,0.156250000000
+LightGBM,native_split,LightGBM native split importance,56,Tx_mean_abs,10.000000000000,0.156250000000
+LightGBM,native_split,LightGBM native split importance,57,Tx_first,10.000000000000,0.156250000000
+LightGBM,native_split,LightGBM native split importance,58,Tx_peak_frequency,10.000000000000,0.156250000000
+LightGBM,native_split,LightGBM native split importance,59,Ty_median,10.000000000000,0.156250000000
+LightGBM,native_split,LightGBM native split importance,60,Tz_skewness,10.000000000000,0.156250000000
+LightGBM,native_split,LightGBM native split importance,61,Fx_energy,9.000000000000,0.140625000000
+LightGBM,native_split,LightGBM native split importance,62,Fx_first,9.000000000000,0.140625000000
+LightGBM,native_split,LightGBM native split importance,63,Fy_entropy,9.000000000000,0.140625000000
+LightGBM,native_split,LightGBM native split importance,64,Fz_shape_factor,9.000000000000,0.140625000000
+LightGBM,native_split,LightGBM native split importance,65,Ty_kurtosis,9.000000000000,0.140625000000
+LightGBM,native_split,LightGBM native split importance,66,Ty_rms,9.000000000000,0.140625000000
+LightGBM,native_split,LightGBM native split importance,67,Ty_slope,9.000000000000,0.140625000000
+LightGBM,native_split,LightGBM native split importance,68,Tz_std,9.000000000000,0.140625000000
+LightGBM,native_split,LightGBM native split importance,69,Tz_energy,9.000000000000,0.140625000000
+LightGBM,native_split,LightGBM native split importance,70,Fx_mean,8.000000000000,0.125000000000
+LightGBM,native_split,LightGBM native split importance,71,Fy_peak_to_peak,8.000000000000,0.125000000000
+LightGBM,native_split,LightGBM native split importance,72,Fz_skewness,8.000000000000,0.125000000000
+LightGBM,native_split,LightGBM native split importance,73,Tx_max,8.000000000000,0.125000000000
+LightGBM,native_split,LightGBM native split importance,74,Ty_peak_to_peak,8.000000000000,0.125000000000
+LightGBM,native_split,LightGBM native split importance,75,Ty_entropy,8.000000000000,0.125000000000
+LightGBM,native_split,LightGBM native split importance,76,Fx_iqr,7.000000000000,0.109375000000
+LightGBM,native_split,LightGBM native split importance,77,Fy_energy,7.000000000000,0.109375000000
+LightGBM,native_split,LightGBM native split importance,78,Fz_cv,7.000000000000,0.109375000000
+LightGBM,native_split,LightGBM native split importance,79,Fz_crest_factor,7.000000000000,0.109375000000
+LightGBM,native_split,LightGBM native split importance,80,Tx_power,7.000000000000,0.109375000000
+LightGBM,native_split,LightGBM native split importance,81,Tx_last,7.000000000000,0.109375000000
+LightGBM,native_split,LightGBM native split importance,82,Ty_max,7.000000000000,0.109375000000
+LightGBM,native_split,LightGBM native split importance,83,Tz_iqr,7.000000000000,0.109375000000
+LightGBM,native_split,LightGBM native split importance,84,Tz_entropy,7.000000000000,0.109375000000
+LightGBM,native_split,LightGBM native split importance,85,Tz_slope,7.000000000000,0.109375000000
+LightGBM,native_split,LightGBM native split importance,86,Fx_variance,6.000000000000,0.093750000000
+LightGBM,native_split,LightGBM native split importance,87,Fy_p90,6.000000000000,0.093750000000
+LightGBM,native_split,LightGBM native split importance,88,Fy_slope,6.000000000000,0.093750000000
+LightGBM,native_split,LightGBM native split importance,89,Tx_entropy,6.000000000000,0.093750000000
+LightGBM,native_split,LightGBM native split importance,90,Tx_p90,6.000000000000,0.093750000000
+LightGBM,native_split,LightGBM native split importance,91,Tx_slope,6.000000000000,0.093750000000
+LightGBM,native_split,LightGBM native split importance,92,Tx_crest_factor,6.000000000000,0.093750000000
+LightGBM,native_split,LightGBM native split importance,93,Ty_energy,6.000000000000,0.093750000000
+LightGBM,native_split,LightGBM native split importance,94,Fx_zero_crossing_rate,5.000000000000,0.078125000000
+LightGBM,native_split,LightGBM native split importance,95,Fx_p90,5.000000000000,0.078125000000
+LightGBM,native_split,LightGBM native split importance,96,Fx_crest_factor,5.000000000000,0.078125000000
+LightGBM,native_split,LightGBM native split importance,97,Fx_peak_frequency,5.000000000000,0.078125000000
+LightGBM,native_split,LightGBM native split importance,98,Tx_mean,5.000000000000,0.078125000000
+LightGBM,native_split,LightGBM native split importance,99,Ty_mean_abs,5.000000000000,0.078125000000
+LightGBM,native_split,LightGBM native split importance,100,Ty_zero_crossing_rate,5.000000000000,0.078125000000
+LightGBM,native_split,LightGBM native split importance,101,Fx_kurtosis,4.000000000000,0.062500000000
+LightGBM,native_split,LightGBM native split importance,102,Fx_peak_to_peak,4.000000000000,0.062500000000
+LightGBM,native_split,LightGBM native split importance,103,Fy_skewness,4.000000000000,0.062500000000
+LightGBM,native_split,LightGBM native split importance,104,Fy_shape_factor,4.000000000000,0.062500000000
+LightGBM,native_split,LightGBM native split importance,105,Fz_p90,4.000000000000,0.062500000000
+LightGBM,native_split,LightGBM native split importance,106,Tx_std,4.000000000000,0.062500000000
+LightGBM,native_split,LightGBM native split importance,107,Tx_skewness,4.000000000000,0.062500000000
+LightGBM,native_split,LightGBM native split importance,108,Ty_crest_factor,4.000000000000,0.062500000000
+LightGBM,native_split,LightGBM native split importance,109,Tz_median,4.000000000000,0.062500000000
+LightGBM,native_split,LightGBM native split importance,110,Tz_crest_factor,4.000000000000,0.062500000000
+LightGBM,native_split,LightGBM native split importance,111,Fx_power,3.000000000000,0.046875000000
+LightGBM,native_split,LightGBM native split importance,112,Fx_cv,3.000000000000,0.046875000000
+LightGBM,native_split,LightGBM native split importance,113,Fy_zero_crossing_rate,3.000000000000,0.046875000000
+LightGBM,native_split,LightGBM native split importance,114,Fy_variance,3.000000000000,0.046875000000
+LightGBM,native_split,LightGBM native split importance,115,Fy_cv,3.000000000000,0.046875000000
+LightGBM,native_split,LightGBM native split importance,116,Fz_median,3.000000000000,0.046875000000
+LightGBM,native_split,LightGBM native split importance,117,Tx_kurtosis,3.000000000000,0.046875000000
+LightGBM,native_split,LightGBM native split importance,118,Ty_mean,3.000000000000,0.046875000000
+LightGBM,native_split,LightGBM native split importance,119,Ty_skewness,3.000000000000,0.046875000000
+LightGBM,native_split,LightGBM native split importance,120,Tz_zero_crossing_rate,3.000000000000,0.046875000000
+LightGBM,native_split,LightGBM native split importance,121,Fx_max,2.000000000000,0.031250000000
+LightGBM,native_split,LightGBM native split importance,122,Fx_median,2.000000000000,0.031250000000
+LightGBM,native_split,LightGBM native split importance,123,Fy_std,2.000000000000,0.031250000000
+LightGBM,native_split,LightGBM native split importance,124,Fy_iqr,2.000000000000,0.031250000000
+LightGBM,native_split,LightGBM native split importance,125,Fy_power,2.000000000000,0.031250000000
+LightGBM,native_split,LightGBM native split importance,126,Fy_last,2.000000000000,0.031250000000
+LightGBM,native_split,LightGBM native split importance,127,Tx_iqr,2.000000000000,0.031250000000
+LightGBM,native_split,LightGBM native split importance,128,Fy_min,1.000000000000,0.015625000000
+LightGBM,native_split,LightGBM native split importance,129,Fy_crest_factor,1.000000000000,0.015625000000
+LightGBM,native_split,LightGBM native split importance,130,Fz_max,1.000000000000,0.015625000000
+LightGBM,native_split,LightGBM native split importance,131,Tx_median,1.000000000000,0.015625000000
+LightGBM,native_split,LightGBM native split importance,132,Tx_variance,1.000000000000,0.015625000000
+LightGBM,native_split,LightGBM native split importance,133,Ty_power,1.000000000000,0.015625000000
+LightGBM,native_split,LightGBM native split importance,134,Ty_last,1.000000000000,0.015625000000
+LightGBM,native_split,LightGBM native split importance,135,Ty_variance,1.000000000000,0.015625000000
+LightGBM,native_split,LightGBM native split importance,136,Tz_min,1.000000000000,0.015625000000
+LightGBM,native_split,LightGBM native split importance,137,Tz_first,1.000000000000,0.015625000000
+LightGBM,native_split,LightGBM native split importance,138,Tz_cv,1.000000000000,0.015625000000
+LightGBM,native_split,LightGBM native split importance,139,Tz_peak_frequency,1.000000000000,0.015625000000
+LightGBM,native_split,LightGBM native split importance,140,Fz_zero_crossing_rate,0.000000000000,0.000000000000
+LightGBM,native_split,LightGBM native split importance,141,Tz_max,0.000000000000,0.000000000000
+LightGBM,native_split,LightGBM native split importance,142,Tz_power,0.000000000000,0.000000000000
+LightGBM,native_split,LightGBM native split importance,143,Tz_variance,0.000000000000,0.000000000000
+LightGBM,native_split,LightGBM native split importance,144,Tz_p90,0.000000000000,0.000000000000

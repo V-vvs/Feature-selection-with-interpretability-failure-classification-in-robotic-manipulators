@@ -1,0 +1,64 @@
+{
+  "pipeline_info": {
+    "script_version": "ML_Pipeline_Scenario3_SHAP_Final_Enhanced_FocusedHyperspace",
+    "execution_timestamp": "2025-10-03T16:38:20.545760",
+    "scenario": "Filtered Features with SHAP at End + Focused Hyperparameter Space",
+    "dataset_path": "./ReliefF_ANOVA_Correlation_Results",
+    "hyperparameter_optimization": "True"
+  },
+  "dataset_info": {
+    "num_features": 54,
+    "num_classes": 3,
+    "class_names": [
+      "collision",
+      "normal",
+      "obstruction"
+    ],
+    "train_samples": 201,
+    "test_samples": 51,
+    "feature_selection_method": "ReliefF + ANOVA + Correlation"
+  },
+  "model_performance": {
+    "models_trained": 4,
+    "best_model": {
+      "name": "SVM",
+      "accuracy": 0.9803921568627451
+    },
+    "all_results": {
+      "KNN": {
+        "accuracy": 0.9607843137254902,
+        "f1_macro": 0.9547619047619048,
+        "f1_weighted": 0.9595238095238094,
+        "precision_macro": 0.9770114942528735,
+        "recall_macro": 0.9393939393939394
+      },
+      "SVM": {
+        "accuracy": 0.9803921568627451,
+        "f1_macro": 0.978066378066378,
+        "f1_weighted": 0.9801035565741447,
+        "precision_macro": 0.9880952380952381,
+        "recall_macro": 0.9696969696969697
+      },
+      "MLP": {
+        "accuracy": 0.9803921568627451,
+        "f1_macro": 0.978066378066378,
+        "f1_weighted": 0.9801035565741447,
+        "precision_macro": 0.9880952380952381,
+        "recall_macro": 0.9696969696969697
+      },
+      "LightGBM": {
+        "accuracy": 0.9607843137254902,
+        "f1_macro": 0.9594356261022927,
+        "f1_weighted": 0.9606805685237058,
+        "precision_macro": 0.9638447971781305,
+        "recall_macro": 0.957351290684624
+      }
+    }
+  },
+  "configuration": {
+    "skip_lightgbm": false,
+    "intensive_search": true,
+    "optimize_hyperparameters": "True",
+    "hyperparameter_strategy": "Scikit-learn default parameters"
+  }
+}
