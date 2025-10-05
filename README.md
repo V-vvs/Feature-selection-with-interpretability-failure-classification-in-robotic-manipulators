@@ -45,9 +45,6 @@ This project implements a comprehensive machine learning pipeline for classifyin
 
 ## Installation
 ```bash
-# Clone repository
-git clone https://github.com/yourusername/robot-collision-classification.git
-cd robot-collision-classification
 
 # Create virtual environment
 python -m venv venv
