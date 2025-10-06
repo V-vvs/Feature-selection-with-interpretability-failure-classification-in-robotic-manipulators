@@ -38,10 +38,14 @@ This project implements a comprehensive machine learning pipeline for classifyin
 - **Features**: 6 time series (Fx, Fy, Fz, Tx, Ty, Tz) with ~15 points each
 - **Split**: 80% train (201 samples) / 20% test (51 samples)
 
-### Class Distribution
-- **Class 1**: collision in part (134 samples - 53.2%)
-- **Class 2**: slightly moved (87 samples - 34.5%)
-- **Class 3**: collision in tool (31 samples - 12.3%)
+#### Please follow the execution order below:
+Split_datasets.py
+FeatureSelection_ANOVA_ReliefF_COR.py
+Scenario1.py
+Scenario2.py
+Scenario3.py
+SIMPLE_FeaturesRedundantes.py
+UMAPS.py
 
 ## Installation
 ```bash
