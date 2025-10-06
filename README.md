@@ -39,13 +39,13 @@ This project implements a comprehensive machine learning pipeline for classifyin
 - **Split**: 80% train (201 samples) / 20% test (51 samples)
 
 #### Please follow the execution order below:
-Split_datasets.py
-FeatureSelection_ANOVA_ReliefF_COR.py
-Scenario1.py
-Scenario2.py
-Scenario3.py
-SIMPLE_FeaturesRedundantes.py
-UMAPS.py
+**Split_datasets.py
+**FeatureSelection_ANOVA_ReliefF_COR.py
+**Scenario1.py
+**Scenario2.py
+**Scenario3.py
+**SIMPLE_FeaturesRedundantes.py
+**UMAPS.py
 
 ## Installation
 ```bash
